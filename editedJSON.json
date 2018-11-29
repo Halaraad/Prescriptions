@@ -1,0 +1,4002 @@
+[
+    {
+        "value": "Carbidopa 25 MG / Levodopa 100 MG Oral Tablet",
+        "label": "Carbidopa 25 MG / Levodopa 100 MG Oral Tablet"
+    },
+    {
+        "value": "Carbidopa 25 MG / Levodopa 250 MG Oral Tablet",
+        "label": "Carbidopa 25 MG / Levodopa 250 MG Oral Tablet"
+    },
+    {
+        "value": "Carisoprodol 350 MG Oral Tablet",
+        "label": "Carisoprodol 350 MG Oral Tablet"
+    },
+    {
+        "value": "Aspirin 325 MG / Carisoprodol 200 MG Oral Tablet",
+        "label": "Aspirin 325 MG / Carisoprodol 200 MG Oral Tablet"
+    },
+    {
+        "value": "Levocarnitine 330 MG Oral Tablet",
+        "label": "Levocarnitine 330 MG Oral Tablet"
+    },
+    {
+        "value": "Cefaclor 500 MG Oral Capsule",
+        "label": "Cefaclor 500 MG Oral Capsule"
+    },
+    {
+        "value": "cefprozil 250 MG Oral Tablet",
+        "label": "cefprozil 250 MG Oral Tablet"
+    },
+    {
+        "value": "cefprozil 500 MG Oral Tablet",
+        "label": "cefprozil 500 MG Oral Tablet"
+    },
+    {
+        "value": "Cephalexin 500 MG Oral Tablet",
+        "label": "Cephalexin 500 MG Oral Tablet"
+    },
+    {
+        "value": "Clorazepate Dipotassium 15 MG Oral Tablet",
+        "label": "Clorazepate Dipotassium 15 MG Oral Tablet"
+    },
+    {
+        "value": "Clorazepate Dipotassium 3.75 MG Oral Tablet",
+        "label": "Clorazepate Dipotassium 3.75 MG Oral Tablet"
+    },
+    {
+        "value": "Clorazepate Dipotassium 7.5 MG Oral Tablet",
+        "label": "Clorazepate Dipotassium 7.5 MG Oral Tablet"
+    },
+    {
+        "value": "Chlorothiazide 250 MG Oral Tablet",
+        "label": "Chlorothiazide 250 MG Oral Tablet"
+    },
+    {
+        "value": "Chlorothiazide 500 MG Oral Tablet",
+        "label": "Chlorothiazide 500 MG Oral Tablet"
+    },
+    {
+        "value": "Chlorpropamide 100 MG Oral Tablet",
+        "label": "Chlorpropamide 100 MG Oral Tablet"
+    },
+    {
+        "value": "Chlorpropamide 250 MG Oral Tablet",
+        "label": "Chlorpropamide 250 MG Oral Tablet"
+    },
+    {
+        "value": "Chlorthalidone 25 MG Oral Tablet",
+        "label": "Chlorthalidone 25 MG Oral Tablet"
+    },
+    {
+        "value": "Chlorthalidone 50 MG Oral Tablet",
+        "label": "Chlorthalidone 50 MG Oral Tablet"
+    },
+    {
+        "value": "Chlorzoxazone 500 MG Oral Tablet",
+        "label": "Chlorzoxazone 500 MG Oral Tablet"
+    },
+    {
+        "value": "Cimetidine 200 MG Oral Tablet",
+        "label": "Cimetidine 200 MG Oral Tablet"
+    },
+    {
+        "value": "Cimetidine 300 MG Oral Tablet",
+        "label": "Cimetidine 300 MG Oral Tablet"
+    },
+    {
+        "value": "Cimetidine 400 MG Oral Tablet",
+        "label": "Cimetidine 400 MG Oral Tablet"
+    },
+    {
+        "value": "Cimetidine 800 MG Oral Tablet",
+        "label": "Cimetidine 800 MG Oral Tablet"
+    },
+    {
+        "value": "Ciprofloxacin 250 MG Oral Tablet",
+        "label": "Ciprofloxacin 250 MG Oral Tablet"
+    },
+    {
+        "value": "Ciprofloxacin 750 MG Oral Tablet",
+        "label": "Ciprofloxacin 750 MG Oral Tablet"
+    },
+    {
+        "value": "Clarithromycin 250 MG Oral Tablet",
+        "label": "Clarithromycin 250 MG Oral Tablet"
+    },
+    {
+        "value": "Clarithromycin 500 MG Oral Tablet",
+        "label": "Clarithromycin 500 MG Oral Tablet"
+    },
+    {
+        "value": "Clindamycin 150 MG Oral Capsule",
+        "label": "Clindamycin 150 MG Oral Capsule"
+    },
+    {
+        "value": "Clindamycin 10 MG/ML Topical Lotion",
+        "label": "Clindamycin 10 MG/ML Topical Lotion"
+    },
+    {
+        "value": "clocortolone 1 MG/ML Topical Cream",
+        "label": "clocortolone 1 MG/ML Topical Cream"
+    },
+    {
+        "value": "Clonazepam 0.5 MG Oral Tablet",
+        "label": "Clonazepam 0.5 MG Oral Tablet"
+    },
+    {
+        "value": "Clonazepam 1 MG Oral Tablet",
+        "label": "Clonazepam 1 MG Oral Tablet"
+    },
+    {
+        "value": "Clonazepam 2 MG Oral Tablet",
+        "label": "Clonazepam 2 MG Oral Tablet"
+    },
+    {
+        "value": "Carbidopa 10 MG / Levodopa 100 MG Oral Tablet",
+        "label": "Carbidopa 10 MG / Levodopa 100 MG Oral Tablet"
+    },
+    {
+        "value": "Captopril 50 MG / Hydrochlorothiazide 25 MG Oral Tablet",
+        "label": "Captopril 50 MG / Hydrochlorothiazide 25 MG Oral Tablet"
+    },
+    {
+        "value": "Captopril 50 MG / Hydrochlorothiazide 15 MG Oral Tablet",
+        "label": "Captopril 50 MG / Hydrochlorothiazide 15 MG Oral Tablet"
+    },
+    {
+        "value": "Captopril 25 MG / Hydrochlorothiazide 25 MG Oral Tablet",
+        "label": "Captopril 25 MG / Hydrochlorothiazide 25 MG Oral Tablet"
+    },
+    {
+        "value": "Captopril 25 MG / Hydrochlorothiazide 15 MG Oral Tablet",
+        "label": "Captopril 25 MG / Hydrochlorothiazide 15 MG Oral Tablet"
+    },
+    {
+        "value": "calcium acetate 667 MG Oral Tablet",
+        "label": "calcium acetate 667 MG Oral Tablet"
+    },
+    {
+        "value": "Acetaminophen 325 MG / butalbital 50 MG Oral Tablet",
+        "label": "Acetaminophen 325 MG / butalbital 50 MG Oral Tablet"
+    },
+    {
+        "value": "Bumetanide 2 MG Oral Tablet",
+        "label": "Bumetanide 2 MG Oral Tablet"
+    },
+    {
+        "value": "Bumetanide 1 MG Oral Tablet",
+        "label": "Bumetanide 1 MG Oral Tablet"
+    },
+    {
+        "value": "Bumetanide 0.5 MG Oral Tablet",
+        "label": "Bumetanide 0.5 MG Oral Tablet"
+    },
+    {
+        "value": "Bromocriptine 5 MG Oral Capsule",
+        "label": "Bromocriptine 5 MG Oral Capsule"
+    },
+    {
+        "value": "Bromocriptine 2.5 MG Oral Tablet",
+        "label": "Bromocriptine 2.5 MG Oral Tablet"
+    },
+    {
+        "value": "Betamethasone 0.001 MG/MG Topical Ointment",
+        "label": "Betamethasone 0.001 MG/MG Topical Ointment"
+    },
+    {
+        "value": "Betamethasone 1 MG/ML Topical Lotion",
+        "label": "Betamethasone 1 MG/ML Topical Lotion"
+    },
+    {
+        "value": "Betamethasone 1 MG/ML Topical Cream",
+        "label": "Betamethasone 1 MG/ML Topical Cream"
+    },
+    {
+        "value": "Betamethasone 0.0005 MG/MG Topical Ointment",
+        "label": "Betamethasone 0.0005 MG/MG Topical Ointment"
+    },
+    {
+        "value": "benzonatate 100 MG Oral Capsule",
+        "label": "benzonatate 100 MG Oral Capsule"
+    },
+    {
+        "value": "Baclofen 20 MG Oral Tablet",
+        "label": "Baclofen 20 MG Oral Tablet"
+    },
+    {
+        "value": "Baclofen 10 MG Oral Tablet",
+        "label": "Baclofen 10 MG Oral Tablet"
+    },
+    {
+        "value": "Azathioprine 50 MG Oral Tablet",
+        "label": "Azathioprine 50 MG Oral Tablet"
+    },
+    {
+        "value": "Atenolol 50 MG / Chlorthalidone 25 MG Oral Tablet",
+        "label": "Atenolol 50 MG / Chlorthalidone 25 MG Oral Tablet"
+    },
+    {
+        "value": "Atenolol 100 MG / Chlorthalidone 25 MG Oral Tablet",
+        "label": "Atenolol 100 MG / Chlorthalidone 25 MG Oral Tablet"
+    },
+    {
+        "value": "Atenolol 50 MG Oral Tablet",
+        "label": "Atenolol 50 MG Oral Tablet"
+    },
+    {
+        "value": "Atenolol 25 MG Oral Tablet",
+        "label": "Atenolol 25 MG Oral Tablet"
+    },
+    {
+        "value": "Atenolol 100 MG Oral Tablet",
+        "label": "Atenolol 100 MG Oral Tablet"
+    },
+    {
+        "value": "Amoxapine 50 MG Oral Tablet",
+        "label": "Amoxapine 50 MG Oral Tablet"
+    },
+    {
+        "value": "Amoxapine 25 MG Oral Tablet",
+        "label": "Amoxapine 25 MG Oral Tablet"
+    },
+    {
+        "value": "Amoxapine 150 MG Oral Tablet",
+        "label": "Amoxapine 150 MG Oral Tablet"
+    },
+    {
+        "value": "Amoxapine 100 MG Oral Tablet",
+        "label": "Amoxapine 100 MG Oral Tablet"
+    },
+    {
+        "value": "ammonium lactate 120 MG/ML Topical Lotion",
+        "label": "ammonium lactate 120 MG/ML Topical Lotion"
+    },
+    {
+        "value": "Amlodipine 5 MG Oral Tablet",
+        "label": "Amlodipine 5 MG Oral Tablet"
+    },
+    {
+        "value": "amcinonide 0.001 MG/MG Topical Ointment",
+        "label": "amcinonide 0.001 MG/MG Topical Ointment"
+    },
+    {
+        "value": "amcinonide 1 MG/ML Topical Cream",
+        "label": "amcinonide 1 MG/ML Topical Cream"
+    },
+    {
+        "value": "Alprazolam 2 MG Oral Tablet",
+        "label": "Alprazolam 2 MG Oral Tablet"
+    },
+    {
+        "value": "Alprazolam 1 MG Oral Tablet",
+        "label": "Alprazolam 1 MG Oral Tablet"
+    },
+    {
+        "value": "Allopurinol 300 MG Oral Tablet",
+        "label": "Allopurinol 300 MG Oral Tablet"
+    },
+    {
+        "value": "Allopurinol 100 MG Oral Tablet",
+        "label": "Allopurinol 100 MG Oral Tablet"
+    },
+    {
+        "value": "Albuterol 4 MG Oral Tablet",
+        "label": "Albuterol 4 MG Oral Tablet"
+    },
+    {
+        "value": "Albuterol 2 MG Oral Tablet",
+        "label": "Albuterol 2 MG Oral Tablet"
+    },
+    {
+        "value": "Acyclovir 800 MG Oral Tablet",
+        "label": "Acyclovir 800 MG Oral Tablet"
+    },
+    {
+        "value": "Acyclovir 0.05 MG/MG Topical Ointment",
+        "label": "Acyclovir 0.05 MG/MG Topical Ointment"
+    },
+    {
+        "value": "Acyclovir 400 MG Oral Tablet",
+        "label": "Acyclovir 400 MG Oral Tablet"
+    },
+    {
+        "value": "Acyclovir 200 MG Oral Capsule",
+        "label": "Acyclovir 200 MG Oral Capsule"
+    },
+    {
+        "value": "Acetic Acid 20 MG/ML Otic Solution",
+        "label": "Acetic Acid 20 MG/ML Otic Solution"
+    },
+    {
+        "value": "Acetazolamide 250 MG Oral Tablet",
+        "label": "Acetazolamide 250 MG Oral Tablet"
+    },
+    {
+        "value": "Acetazolamide 125 MG Oral Tablet",
+        "label": "Acetazolamide 125 MG Oral Tablet"
+    },
+    {
+        "value": "candesartan cilexetil 8 MG Oral Tablet",
+        "label": "candesartan cilexetil 8 MG Oral Tablet"
+    },
+    {
+        "value": "candesartan cilexetil 4 MG Oral Tablet",
+        "label": "candesartan cilexetil 4 MG Oral Tablet"
+    },
+    {
+        "value": "Altretamine 50 MG Oral Capsule [Hexalen]",
+        "label": "Altretamine 50 MG Oral Capsule [Hexalen]"
+    },
+    {
+        "value": "Interferon beta-1a 0.03 MG Injection [Avonex]",
+        "label": "Interferon beta-1a 0.03 MG Injection [Avonex]"
+    },
+    {
+        "value": "Indinavir 400 MG Oral Capsule [Crixivan]",
+        "label": "Indinavir 400 MG Oral Capsule [Crixivan]"
+    },
+    {
+        "value": "Indinavir 200 MG Oral Capsule [Crixivan]",
+        "label": "Indinavir 200 MG Oral Capsule [Crixivan]"
+    },
+    {
+        "value": "Glucagon 1 MG Injection [GlucaGen]",
+        "label": "Glucagon 1 MG Injection [GlucaGen]"
+    },
+    {
+        "value": "Ritonavir 80 MG/ML Oral Solution [Norvir]",
+        "label": "Ritonavir 80 MG/ML Oral Solution [Norvir]"
+    },
+    {
+        "value": "Ritonavir 100 MG Oral Capsule [Norvir]",
+        "label": "Ritonavir 100 MG Oral Capsule [Norvir]"
+    },
+    {
+        "value": "Lamivudine 10 MG/ML Oral Solution [Epivir]",
+        "label": "Lamivudine 10 MG/ML Oral Solution [Epivir]"
+    },
+    {
+        "value": "Toremifene 60 MG Oral Tablet [Fareston]",
+        "label": "Toremifene 60 MG Oral Tablet [Fareston]"
+    },
+    {
+        "value": "Itraconazole 10 MG/ML Oral Solution [Sporanox]",
+        "label": "Itraconazole 10 MG/ML Oral Solution [Sporanox]"
+    },
+    {
+        "value": "meloxicam 15 MG Oral Tablet",
+        "label": "meloxicam 15 MG Oral Tablet"
+    },
+    {
+        "value": "topiramate 50 MG Oral Tablet",
+        "label": "topiramate 50 MG Oral Tablet"
+    },
+    {
+        "value": "mometasone furoate 1 MG/ML Topical Lotion",
+        "label": "mometasone furoate 1 MG/ML Topical Lotion"
+    },
+    {
+        "value": "mometasone furoate 0.001 MG/MG Topical Ointment",
+        "label": "mometasone furoate 0.001 MG/MG Topical Ointment"
+    },
+    {
+        "value": "Estrogens, Conjugated (USP) 0.625 MG Oral Tablet [Premarin]",
+        "label": "Estrogens, Conjugated (USP) 0.625 MG Oral Tablet [Premarin]"
+    },
+    {
+        "value": "Metronidazole 0.0075 MG/MG Vaginal Gel",
+        "label": "Metronidazole 0.0075 MG/MG Vaginal Gel"
+    },
+    {
+        "value": "Azithromycin 40 MG/ML Oral Suspension",
+        "label": "Azithromycin 40 MG/ML Oral Suspension"
+    },
+    {
+        "value": "Haloperidol 2 MG/ML Oral Solution",
+        "label": "Haloperidol 2 MG/ML Oral Solution"
+    },
+    {
+        "value": "Lindane 10 MG/ML Topical Lotion",
+        "label": "Lindane 10 MG/ML Topical Lotion"
+    },
+    {
+        "value": "Desoximetasone 0.0005 MG/MG Topical Ointment",
+        "label": "Desoximetasone 0.0005 MG/MG Topical Ointment"
+    },
+    {
+        "value": "Mupirocin 0.02 MG/MG Nasal Ointment [Bactroban]",
+        "label": "Mupirocin 0.02 MG/MG Nasal Ointment [Bactroban]"
+    },
+    {
+        "value": "ceftibuten 400 MG Oral Capsule [Cedax]",
+        "label": "ceftibuten 400 MG Oral Capsule [Cedax]"
+    },
+    {
+        "value": "insulin human, isophane 70 UNT/ML / Regular Insulin, Human 30 UNT/ML Injectable Suspension [Humulin]",
+        "label": "insulin human, isophane 70 UNT/ML / Regular Insulin, Human 30 UNT/ML Injectable Suspension [Humulin]"
+    },
+    {
+        "value": "Permethrin 50 MG/ML Topical Cream",
+        "label": "Permethrin 50 MG/ML Topical Cream"
+    },
+    {
+        "value": "Silver Sulfadiazine 10 MG/ML Topical Cream",
+        "label": "Silver Sulfadiazine 10 MG/ML Topical Cream"
+    },
+    {
+        "value": "Mupirocin 0.02 MG/MG Topical Ointment",
+        "label": "Mupirocin 0.02 MG/MG Topical Ointment"
+    },
+    {
+        "value": "Ketoconazole 20 MG/ML Medicated Shampoo",
+        "label": "Ketoconazole 20 MG/ML Medicated Shampoo"
+    },
+    {
+        "value": "Tretinoin 0.5 MG/ML Topical Cream",
+        "label": "Tretinoin 0.5 MG/ML Topical Cream"
+    },
+    {
+        "value": "Tretinoin 0.25 MG/ML Topical Cream",
+        "label": "Tretinoin 0.25 MG/ML Topical Cream"
+    },
+    {
+        "value": "Hydrocortisone 10 MG/ML Topical Cream",
+        "label": "Hydrocortisone 10 MG/ML Topical Cream"
+    },
+    {
+        "value": "Thioguanine 40 MG Oral Tablet [Tabloid]",
+        "label": "Thioguanine 40 MG Oral Tablet [Tabloid]"
+    },
+    {
+        "value": "Methotrexate 2.5 MG Oral Tablet",
+        "label": "Methotrexate 2.5 MG Oral Tablet"
+    },
+    {
+        "value": "Fluorouracil 50 MG/ML Topical Cream",
+        "label": "Fluorouracil 50 MG/ML Topical Cream"
+    },
+    {
+        "value": "Melphalan 2 MG Oral Tablet [Alkeran]",
+        "label": "Melphalan 2 MG Oral Tablet [Alkeran]"
+    },
+    {
+        "value": "Chlorambucil 2 MG Oral Tablet [Leukeran]",
+        "label": "Chlorambucil 2 MG Oral Tablet [Leukeran]"
+    },
+    {
+        "value": "isoniazid 10 MG/ML Oral Solution",
+        "label": "isoniazid 10 MG/ML Oral Solution"
+    },
+    {
+        "value": "Cefadroxil 100 MG/ML Oral Suspension",
+        "label": "Cefadroxil 100 MG/ML Oral Suspension"
+    },
+    {
+        "value": "Ondansetron 4 MG Disintegrating Oral Tablet",
+        "label": "Ondansetron 4 MG Disintegrating Oral Tablet"
+    },
+    {
+        "value": "nabilone 1 MG Oral Capsule [Cesamet]",
+        "label": "nabilone 1 MG Oral Capsule [Cesamet]"
+    },
+    {
+        "value": "Metoclopramide 1 MG/ML Oral Solution",
+        "label": "Metoclopramide 1 MG/ML Oral Solution"
+    },
+    {
+        "value": "Mepenzolate 25 MG Oral Tablet [Cantil]",
+        "label": "Mepenzolate 25 MG Oral Tablet [Cantil]"
+    },
+    {
+        "value": "lamotrigine 100 MG Disintegrating Oral Tablet",
+        "label": "lamotrigine 100 MG Disintegrating Oral Tablet"
+    },
+    {
+        "value": "Fluocinonide 0.0005 MG/MG Topical Ointment",
+        "label": "Fluocinonide 0.0005 MG/MG Topical Ointment"
+    },
+    {
+        "value": "Fluocinonide 0.5 MG/ML Topical Cream",
+        "label": "Fluocinonide 0.5 MG/ML Topical Cream"
+    },
+    {
+        "value": "Hydrocortisone 0.025 MG/MG Topical Ointment",
+        "label": "Hydrocortisone 0.025 MG/MG Topical Ointment"
+    },
+    {
+        "value": "Primidone 250 MG Oral Tablet",
+        "label": "Primidone 250 MG Oral Tablet"
+    },
+    {
+        "value": "Fluorouracil 10 MG/ML Topical Cream [Fluoroplex]",
+        "label": "Fluorouracil 10 MG/ML Topical Cream [Fluoroplex]"
+    },
+    {
+        "value": "Oxymetholone 50 MG Oral Tablet [Anadrol-50]",
+        "label": "Oxymetholone 50 MG Oral Tablet [Anadrol-50]"
+    },
+    {
+        "value": "Clozapine 100 MG Oral Tablet",
+        "label": "Clozapine 100 MG Oral Tablet"
+    },
+    {
+        "value": "Clozapine 25 MG Oral Tablet",
+        "label": "Clozapine 25 MG Oral Tablet"
+    },
+    {
+        "value": "Colchicine 0.6 MG Oral Tablet",
+        "label": "Colchicine 0.6 MG Oral Tablet"
+    },
+    {
+        "value": "Cyclosporine 25 MG Oral Capsule",
+        "label": "Cyclosporine 25 MG Oral Capsule"
+    },
+    {
+        "value": "Danazol 100 MG Oral Capsule",
+        "label": "Danazol 100 MG Oral Capsule"
+    },
+    {
+        "value": "Danazol 200 MG Oral Capsule",
+        "label": "Danazol 200 MG Oral Capsule"
+    },
+    {
+        "value": "Danazol 50 MG Oral Capsule",
+        "label": "Danazol 50 MG Oral Capsule"
+    },
+    {
+        "value": "Dapsone 100 MG Oral Tablet",
+        "label": "Dapsone 100 MG Oral Tablet"
+    },
+    {
+        "value": "Dapsone 25 MG Oral Tablet",
+        "label": "Dapsone 25 MG Oral Tablet"
+    },
+    {
+        "value": "Desonide 0.5 MG/ML Topical Lotion",
+        "label": "Desonide 0.5 MG/ML Topical Lotion"
+    },
+    {
+        "value": "Desoximetasone 0.5 MG/ML Topical Cream",
+        "label": "Desoximetasone 0.5 MG/ML Topical Cream"
+    },
+    {
+        "value": "Desoximetasone 2.5 MG/ML Topical Cream",
+        "label": "Desoximetasone 2.5 MG/ML Topical Cream"
+    },
+    {
+        "value": "Desoximetasone 0.0025 MG/MG Topical Ointment",
+        "label": "Desoximetasone 0.0025 MG/MG Topical Ointment"
+    },
+    {
+        "value": "Dexamethasone 0.5 MG Oral Tablet",
+        "label": "Dexamethasone 0.5 MG Oral Tablet"
+    },
+    {
+        "value": "Dexamethasone 1 MG Oral Tablet",
+        "label": "Dexamethasone 1 MG Oral Tablet"
+    },
+    {
+        "value": "Dexamethasone 1.5 MG Oral Tablet",
+        "label": "Dexamethasone 1.5 MG Oral Tablet"
+    },
+    {
+        "value": "Dexamethasone 2 MG Oral Tablet",
+        "label": "Dexamethasone 2 MG Oral Tablet"
+    },
+    {
+        "value": "Dexamethasone 4 MG Oral Tablet",
+        "label": "Dexamethasone 4 MG Oral Tablet"
+    },
+    {
+        "value": "Dexamethasone 6 MG Oral Tablet",
+        "label": "Dexamethasone 6 MG Oral Tablet"
+    },
+    {
+        "value": "Diazepam 10 MG Oral Tablet",
+        "label": "Diazepam 10 MG Oral Tablet"
+    },
+    {
+        "value": "Diazepam 2 MG Oral Tablet",
+        "label": "Diazepam 2 MG Oral Tablet"
+    },
+    {
+        "value": "Diazepam 5 MG Oral Tablet",
+        "label": "Diazepam 5 MG Oral Tablet"
+    },
+    {
+        "value": "Dicloxacillin 250 MG Oral Capsule",
+        "label": "Dicloxacillin 250 MG Oral Capsule"
+    },
+    {
+        "value": "Dicloxacillin 500 MG Oral Capsule",
+        "label": "Dicloxacillin 500 MG Oral Capsule"
+    },
+    {
+        "value": "Diflunisal 500 MG Oral Tablet",
+        "label": "Diflunisal 500 MG Oral Tablet"
+    },
+    {
+        "value": "Digoxin 0.125 MG Oral Tablet",
+        "label": "Digoxin 0.125 MG Oral Tablet"
+    },
+    {
+        "value": "Digoxin 0.25 MG Oral Tablet",
+        "label": "Digoxin 0.25 MG Oral Tablet"
+    },
+    {
+        "value": "Dipyridamole 50 MG Oral Tablet",
+        "label": "Dipyridamole 50 MG Oral Tablet"
+    },
+    {
+        "value": "Disulfiram 250 MG Oral Tablet",
+        "label": "Disulfiram 250 MG Oral Tablet"
+    },
+    {
+        "value": "Disulfiram 500 MG Oral Tablet",
+        "label": "Disulfiram 500 MG Oral Tablet"
+    },
+    {
+        "value": "Doxazosin 1 MG Oral Tablet",
+        "label": "Doxazosin 1 MG Oral Tablet"
+    },
+    {
+        "value": "Doxazosin 2 MG Oral Tablet",
+        "label": "Doxazosin 2 MG Oral Tablet"
+    },
+    {
+        "value": "Doxazosin 4 MG Oral Tablet",
+        "label": "Doxazosin 4 MG Oral Tablet"
+    },
+    {
+        "value": "Doxazosin 8 MG Oral Tablet",
+        "label": "Doxazosin 8 MG Oral Tablet"
+    },
+    {
+        "value": "Tetrahydrocannabinol 10 MG Oral Capsule",
+        "label": "Tetrahydrocannabinol 10 MG Oral Capsule"
+    },
+    {
+        "value": "Tetrahydrocannabinol 2.5 MG Oral Capsule",
+        "label": "Tetrahydrocannabinol 2.5 MG Oral Capsule"
+    },
+    {
+        "value": "Tetrahydrocannabinol 5 MG Oral Capsule",
+        "label": "Tetrahydrocannabinol 5 MG Oral Capsule"
+    },
+    {
+        "value": "Erythromycin 500 MG Oral Tablet",
+        "label": "Erythromycin 500 MG Oral Tablet"
+    },
+    {
+        "value": "Estazolam 1 MG Oral Tablet",
+        "label": "Estazolam 1 MG Oral Tablet"
+    },
+    {
+        "value": "Estazolam 2 MG Oral Tablet",
+        "label": "Estazolam 2 MG Oral Tablet"
+    },
+    {
+        "value": "Estradiol 0.5 MG Oral Tablet",
+        "label": "Estradiol 0.5 MG Oral Tablet"
+    },
+    {
+        "value": "Estradiol 1 MG Oral Tablet",
+        "label": "Estradiol 1 MG Oral Tablet"
+    },
+    {
+        "value": "Estradiol 2 MG Oral Tablet",
+        "label": "Estradiol 2 MG Oral Tablet"
+    },
+    {
+        "value": "Estrogens, Esterified (USP) 1.25 MG / Methyltestosterone 2.5 MG Oral Tablet",
+        "label": "Estrogens, Esterified (USP) 1.25 MG / Methyltestosterone 2.5 MG Oral Tablet"
+    },
+    {
+        "value": "Ethosuximide 250 MG Oral Capsule",
+        "label": "Ethosuximide 250 MG Oral Capsule"
+    },
+    {
+        "value": "Etodolac 200 MG Oral Capsule",
+        "label": "Etodolac 200 MG Oral Capsule"
+    },
+    {
+        "value": "Etodolac 300 MG Oral Capsule",
+        "label": "Etodolac 300 MG Oral Capsule"
+    },
+    {
+        "value": "Etodolac 400 MG Oral Tablet",
+        "label": "Etodolac 400 MG Oral Tablet"
+    },
+    {
+        "value": "Etoposide 50 MG Oral Capsule",
+        "label": "Etoposide 50 MG Oral Capsule"
+    },
+    {
+        "value": "72 HR Fentanyl 0.075 MG/HR Transdermal Patch",
+        "label": "72 HR Fentanyl 0.075 MG/HR Transdermal Patch"
+    },
+    {
+        "value": "Fluconazole 100 MG Oral Tablet",
+        "label": "Fluconazole 100 MG Oral Tablet"
+    },
+    {
+        "value": "Fluconazole 150 MG Oral Tablet",
+        "label": "Fluconazole 150 MG Oral Tablet"
+    },
+    {
+        "value": "Fluconazole 200 MG Oral Tablet",
+        "label": "Fluconazole 200 MG Oral Tablet"
+    },
+    {
+        "value": "Fluconazole 50 MG Oral Tablet",
+        "label": "Fluconazole 50 MG Oral Tablet"
+    },
+    {
+        "value": "Flucytosine 250 MG Oral Capsule",
+        "label": "Flucytosine 250 MG Oral Capsule"
+    },
+    {
+        "value": "Flucytosine 500 MG Oral Capsule",
+        "label": "Flucytosine 500 MG Oral Capsule"
+    },
+    {
+        "value": "Flurbiprofen 100 MG Oral Tablet",
+        "label": "Flurbiprofen 100 MG Oral Tablet"
+    },
+    {
+        "value": "Flurbiprofen 50 MG Oral Tablet",
+        "label": "Flurbiprofen 50 MG Oral Tablet"
+    },
+    {
+        "value": "Flutamide 125 MG Oral Capsule",
+        "label": "Flutamide 125 MG Oral Capsule"
+    },
+    {
+        "value": "Furosemide 10 MG/ML Oral Solution",
+        "label": "Furosemide 10 MG/ML Oral Solution"
+    },
+    {
+        "value": "Furosemide 8 MG/ML Oral Solution",
+        "label": "Furosemide 8 MG/ML Oral Solution"
+    },
+    {
+        "value": "Furosemide 80 MG Oral Tablet",
+        "label": "Furosemide 80 MG Oral Tablet"
+    },
+    {
+        "value": "Gentamicin Sulfate (USP) 1 MG/ML Topical Cream",
+        "label": "Gentamicin Sulfate (USP) 1 MG/ML Topical Cream"
+    },
+    {
+        "value": "Glyburide 1.25 MG Oral Tablet",
+        "label": "Glyburide 1.25 MG Oral Tablet"
+    },
+    {
+        "value": "Glycopyrrolate 1 MG Oral Tablet",
+        "label": "Glycopyrrolate 1 MG Oral Tablet"
+    },
+    {
+        "value": "Glycopyrrolate 2 MG Oral Tablet",
+        "label": "Glycopyrrolate 2 MG Oral Tablet"
+    },
+    {
+        "value": "Guanfacine 1 MG Oral Tablet",
+        "label": "Guanfacine 1 MG Oral Tablet"
+    },
+    {
+        "value": "Guanfacine 2 MG Oral Tablet",
+        "label": "Guanfacine 2 MG Oral Tablet"
+    },
+    {
+        "value": "Haloperidol 20 MG Oral Tablet",
+        "label": "Haloperidol 20 MG Oral Tablet"
+    },
+    {
+        "value": "Hydrochlorothiazide 50 MG Oral Tablet",
+        "label": "Hydrochlorothiazide 50 MG Oral Tablet"
+    },
+    {
+        "value": "Hydrocortisone 10 MG Oral Tablet",
+        "label": "Hydrocortisone 10 MG Oral Tablet"
+    },
+    {
+        "value": "Hydrocortisone 20 MG Oral Tablet",
+        "label": "Hydrocortisone 20 MG Oral Tablet"
+    },
+    {
+        "value": "Hydrocortisone 25 MG/ML Topical Lotion",
+        "label": "Hydrocortisone 25 MG/ML Topical Lotion"
+    },
+    {
+        "value": "Hydrocortisone 5 MG Oral Tablet",
+        "label": "Hydrocortisone 5 MG Oral Tablet"
+    },
+    {
+        "value": "hydroxyurea 500 MG Oral Capsule",
+        "label": "hydroxyurea 500 MG Oral Capsule"
+    },
+    {
+        "value": "Ibuprofen 400 MG Oral Tablet",
+        "label": "Ibuprofen 400 MG Oral Tablet"
+    },
+    {
+        "value": "Ibuprofen 600 MG Oral Tablet",
+        "label": "Ibuprofen 600 MG Oral Tablet"
+    },
+    {
+        "value": "Ibuprofen 800 MG Oral Tablet",
+        "label": "Ibuprofen 800 MG Oral Tablet"
+    },
+    {
+        "value": "Indapamide 1.25 MG Oral Tablet",
+        "label": "Indapamide 1.25 MG Oral Tablet"
+    },
+    {
+        "value": "Indapamide 2.5 MG Oral Tablet",
+        "label": "Indapamide 2.5 MG Oral Tablet"
+    },
+    {
+        "value": "Indomethacin 25 MG Oral Capsule",
+        "label": "Indomethacin 25 MG Oral Capsule"
+    },
+    {
+        "value": "Indomethacin 50 MG Oral Capsule",
+        "label": "Indomethacin 50 MG Oral Capsule"
+    },
+    {
+        "value": "isoniazid 300 MG Oral Tablet",
+        "label": "isoniazid 300 MG Oral Tablet"
+    },
+    {
+        "value": "Isosorbide Dinitrate 30 MG Oral Tablet",
+        "label": "Isosorbide Dinitrate 30 MG Oral Tablet"
+    },
+    {
+        "value": "Isradipine 2.5 MG Oral Capsule",
+        "label": "Isradipine 2.5 MG Oral Capsule"
+    },
+    {
+        "value": "Isradipine 5 MG Oral Capsule",
+        "label": "Isradipine 5 MG Oral Capsule"
+    },
+    {
+        "value": "Ketoconazole 200 MG Oral Tablet",
+        "label": "Ketoconazole 200 MG Oral Tablet"
+    },
+    {
+        "value": "Ketoprofen 50 MG Oral Capsule",
+        "label": "Ketoprofen 50 MG Oral Capsule"
+    },
+    {
+        "value": "Ketoprofen 75 MG Oral Capsule",
+        "label": "Ketoprofen 75 MG Oral Capsule"
+    },
+    {
+        "value": "Leucovorin 10 MG Oral Tablet",
+        "label": "Leucovorin 10 MG Oral Tablet"
+    },
+    {
+        "value": "Leucovorin 15 MG Oral Tablet",
+        "label": "Leucovorin 15 MG Oral Tablet"
+    },
+    {
+        "value": "Leucovorin 25 MG Oral Tablet",
+        "label": "Leucovorin 25 MG Oral Tablet"
+    },
+    {
+        "value": "Leucovorin 5 MG Oral Tablet",
+        "label": "Leucovorin 5 MG Oral Tablet"
+    },
+    {
+        "value": "Levorphanol 2 MG Oral Tablet",
+        "label": "Levorphanol 2 MG Oral Tablet"
+    },
+    {
+        "value": "Lidocaine 25 MG/ML / Prilocaine 25 MG/ML Topical Cream",
+        "label": "Lidocaine 25 MG/ML / Prilocaine 25 MG/ML Topical Cream"
+    },
+    {
+        "value": "Lindane 10 MG/ML Medicated Shampoo",
+        "label": "Lindane 10 MG/ML Medicated Shampoo"
+    },
+    {
+        "value": "Lisinopril 40 MG Oral Tablet",
+        "label": "Lisinopril 40 MG Oral Tablet"
+    },
+    {
+        "value": "Hydrochlorothiazide 12.5 MG / Lisinopril 10 MG Oral Tablet",
+        "label": "Hydrochlorothiazide 12.5 MG / Lisinopril 10 MG Oral Tablet"
+    },
+    {
+        "value": "Hydrochlorothiazide 12.5 MG / Lisinopril 20 MG Oral Tablet",
+        "label": "Hydrochlorothiazide 12.5 MG / Lisinopril 20 MG Oral Tablet"
+    },
+    {
+        "value": "Hydrochlorothiazide 25 MG / Lisinopril 20 MG Oral Tablet",
+        "label": "Hydrochlorothiazide 25 MG / Lisinopril 20 MG Oral Tablet"
+    },
+    {
+        "value": "Lithium Carbonate 300 MG Oral Capsule",
+        "label": "Lithium Carbonate 300 MG Oral Capsule"
+    },
+    {
+        "value": "Lithium Carbonate 300 MG Oral Tablet",
+        "label": "Lithium Carbonate 300 MG Oral Tablet"
+    },
+    {
+        "value": "Lithium Carbonate 300 MG Extended Release Oral Tablet",
+        "label": "Lithium Carbonate 300 MG Extended Release Oral Tablet"
+    },
+    {
+        "value": "Lithium Carbonate 450 MG Extended Release Oral Tablet",
+        "label": "Lithium Carbonate 450 MG Extended Release Oral Tablet"
+    },
+    {
+        "value": "Lithium Carbonate 600 MG Oral Capsule",
+        "label": "Lithium Carbonate 600 MG Oral Capsule"
+    },
+    {
+        "value": "Lorazepam 0.5 MG Oral Tablet",
+        "label": "Lorazepam 0.5 MG Oral Tablet"
+    },
+    {
+        "value": "Lorazepam 1 MG Oral Tablet",
+        "label": "Lorazepam 1 MG Oral Tablet"
+    },
+    {
+        "value": "Lorazepam 2 MG Oral Tablet",
+        "label": "Lorazepam 2 MG Oral Tablet"
+    },
+    {
+        "value": "Lovastatin 10 MG Oral Tablet",
+        "label": "Lovastatin 10 MG Oral Tablet"
+    },
+    {
+        "value": "Lovastatin 20 MG Oral Tablet",
+        "label": "Lovastatin 20 MG Oral Tablet"
+    },
+    {
+        "value": "Lovastatin 40 MG Oral Tablet",
+        "label": "Lovastatin 40 MG Oral Tablet"
+    },
+    {
+        "value": "Meprobamate 200 MG Oral Tablet",
+        "label": "Meprobamate 200 MG Oral Tablet"
+    },
+    {
+        "value": "Meprobamate 400 MG Oral Tablet",
+        "label": "Meprobamate 400 MG Oral Tablet"
+    },
+    {
+        "value": "mercaptopurine 50 MG Oral Tablet",
+        "label": "mercaptopurine 50 MG Oral Tablet"
+    },
+    {
+        "value": "metaxalone 400 MG Oral Tablet",
+        "label": "metaxalone 400 MG Oral Tablet"
+    },
+    {
+        "value": "Methazolamide 25 MG Oral Tablet",
+        "label": "Methazolamide 25 MG Oral Tablet"
+    },
+    {
+        "value": "Methazolamide 50 MG Oral Tablet",
+        "label": "Methazolamide 50 MG Oral Tablet"
+    },
+    {
+        "value": "Methimazole 10 MG Oral Tablet",
+        "label": "Methimazole 10 MG Oral Tablet"
+    },
+    {
+        "value": "Methimazole 5 MG Oral Tablet",
+        "label": "Methimazole 5 MG Oral Tablet"
+    },
+    {
+        "value": "Methocarbamol 500 MG Oral Tablet",
+        "label": "Methocarbamol 500 MG Oral Tablet"
+    },
+    {
+        "value": "Methocarbamol 750 MG Oral Tablet",
+        "label": "Methocarbamol 750 MG Oral Tablet"
+    },
+    {
+        "value": "Methoxsalen 10 MG Oral Capsule",
+        "label": "Methoxsalen 10 MG Oral Capsule"
+    },
+    {
+        "value": "Methyclothiazide 5 MG Oral Tablet",
+        "label": "Methyclothiazide 5 MG Oral Tablet"
+    },
+    {
+        "value": "Methyldopa 250 MG Oral Tablet",
+        "label": "Methyldopa 250 MG Oral Tablet"
+    },
+    {
+        "value": "Methyldopa 500 MG Oral Tablet",
+        "label": "Methyldopa 500 MG Oral Tablet"
+    },
+    {
+        "value": "Hydrochlorothiazide 25 MG / Methyldopa 250 MG Oral Tablet",
+        "label": "Hydrochlorothiazide 25 MG / Methyldopa 250 MG Oral Tablet"
+    },
+    {
+        "value": "Hydrochlorothiazide 15 MG / Methyldopa 250 MG Oral Tablet",
+        "label": "Hydrochlorothiazide 15 MG / Methyldopa 250 MG Oral Tablet"
+    },
+    {
+        "value": "Methylprednisolone 32 MG Oral Tablet",
+        "label": "Methylprednisolone 32 MG Oral Tablet"
+    },
+    {
+        "value": "Methylprednisolone 8 MG Oral Tablet",
+        "label": "Methylprednisolone 8 MG Oral Tablet"
+    },
+    {
+        "value": "Methyltestosterone 10 MG Oral Capsule",
+        "label": "Methyltestosterone 10 MG Oral Capsule"
+    },
+    {
+        "value": "Metolazone 10 MG Oral Tablet",
+        "label": "Metolazone 10 MG Oral Tablet"
+    },
+    {
+        "value": "Metolazone 2.5 MG Oral Tablet",
+        "label": "Metolazone 2.5 MG Oral Tablet"
+    },
+    {
+        "value": "Minocycline 100 MG Oral Capsule",
+        "label": "Minocycline 100 MG Oral Capsule"
+    },
+    {
+        "value": "Minocycline 50 MG Oral Capsule",
+        "label": "Minocycline 50 MG Oral Capsule"
+    },
+    {
+        "value": "Minoxidil 10 MG Oral Tablet",
+        "label": "Minoxidil 10 MG Oral Tablet"
+    },
+    {
+        "value": "Minoxidil 2.5 MG Oral Tablet",
+        "label": "Minoxidil 2.5 MG Oral Tablet"
+    },
+    {
+        "value": "Bendroflumethiazide 5 MG / Nadolol 40 MG Oral Tablet",
+        "label": "Bendroflumethiazide 5 MG / Nadolol 40 MG Oral Tablet"
+    },
+    {
+        "value": "Bendroflumethiazide 5 MG / Nadolol 80 MG Oral Tablet",
+        "label": "Bendroflumethiazide 5 MG / Nadolol 80 MG Oral Tablet"
+    },
+    {
+        "value": "Nadolol 20 MG Oral Tablet",
+        "label": "Nadolol 20 MG Oral Tablet"
+    },
+    {
+        "value": "Nadolol 40 MG Oral Tablet",
+        "label": "Nadolol 40 MG Oral Tablet"
+    },
+    {
+        "value": "Nadolol 80 MG Oral Tablet",
+        "label": "Nadolol 80 MG Oral Tablet"
+    },
+    {
+        "value": "Naproxen 375 MG Oral Tablet",
+        "label": "Naproxen 375 MG Oral Tablet"
+    },
+    {
+        "value": "Naproxen 250 MG Oral Tablet",
+        "label": "Naproxen 250 MG Oral Tablet"
+    },
+    {
+        "value": "Naproxen 500 MG Oral Tablet",
+        "label": "Naproxen 500 MG Oral Tablet"
+    },
+    {
+        "value": "24 HR Nicotine 0.583 MG/HR Transdermal Patch",
+        "label": "24 HR Nicotine 0.583 MG/HR Transdermal Patch"
+    },
+    {
+        "value": "24 HR Nicotine 0.875 MG/HR Transdermal Patch",
+        "label": "24 HR Nicotine 0.875 MG/HR Transdermal Patch"
+    },
+    {
+        "value": "24 HR Nicotine 0.292 MG/HR Transdermal Patch",
+        "label": "24 HR Nicotine 0.292 MG/HR Transdermal Patch"
+    },
+    {
+        "value": "Nifedipine 10 MG Oral Capsule",
+        "label": "Nifedipine 10 MG Oral Capsule"
+    },
+    {
+        "value": "Nifedipine 20 MG Oral Capsule",
+        "label": "Nifedipine 20 MG Oral Capsule"
+    },
+    {
+        "value": "24 HR Nifedipine 30 MG Extended Release Oral Tablet",
+        "label": "24 HR Nifedipine 30 MG Extended Release Oral Tablet"
+    },
+    {
+        "value": "24 HR Nifedipine 60 MG Extended Release Oral Tablet",
+        "label": "24 HR Nifedipine 60 MG Extended Release Oral Tablet"
+    },
+    {
+        "value": "24 HR Nifedipine 90 MG Extended Release Oral Tablet",
+        "label": "24 HR Nifedipine 90 MG Extended Release Oral Tablet"
+    },
+    {
+        "value": "Nimodipine 30 MG Oral Capsule",
+        "label": "Nimodipine 30 MG Oral Capsule"
+    },
+    {
+        "value": "Nitroglycerin 0.4 MG Sublingual Tablet",
+        "label": "Nitroglycerin 0.4 MG Sublingual Tablet"
+    },
+    {
+        "value": "Nizatidine 300 MG Oral Capsule",
+        "label": "Nizatidine 300 MG Oral Capsule"
+    },
+    {
+        "value": "Nortriptyline 10 MG Oral Capsule",
+        "label": "Nortriptyline 10 MG Oral Capsule"
+    },
+    {
+        "value": "Nortriptyline 50 MG Oral Capsule",
+        "label": "Nortriptyline 50 MG Oral Capsule"
+    },
+    {
+        "value": "Nortriptyline 75 MG Oral Capsule",
+        "label": "Nortriptyline 75 MG Oral Capsule"
+    },
+    {
+        "value": "Ofloxacin 400 MG Oral Tablet",
+        "label": "Ofloxacin 400 MG Oral Tablet"
+    },
+    {
+        "value": "Omeprazole 20 MG Delayed Release Oral Capsule",
+        "label": "Omeprazole 20 MG Delayed Release Oral Capsule"
+    },
+    {
+        "value": "Ondansetron 4 MG Oral Tablet",
+        "label": "Ondansetron 4 MG Oral Tablet"
+    },
+    {
+        "value": "Oxandrolone 2.5 MG Oral Tablet",
+        "label": "Oxandrolone 2.5 MG Oral Tablet"
+    },
+    {
+        "value": "Oxazepam 10 MG Oral Capsule",
+        "label": "Oxazepam 10 MG Oral Capsule"
+    },
+    {
+        "value": "Oxazepam 30 MG Oral Capsule",
+        "label": "Oxazepam 30 MG Oral Capsule"
+    },
+    {
+        "value": "Perphenazine 16 MG Oral Tablet",
+        "label": "Perphenazine 16 MG Oral Tablet"
+    },
+    {
+        "value": "Perphenazine 2 MG Oral Tablet",
+        "label": "Perphenazine 2 MG Oral Tablet"
+    },
+    {
+        "value": "Perphenazine 4 MG Oral Tablet",
+        "label": "Perphenazine 4 MG Oral Tablet"
+    },
+    {
+        "value": "Perphenazine 8 MG Oral Tablet",
+        "label": "Perphenazine 8 MG Oral Tablet"
+    },
+    {
+        "value": "Phenobarbital 100 MG Oral Tablet",
+        "label": "Phenobarbital 100 MG Oral Tablet"
+    },
+    {
+        "value": "Phenobarbital 16.2 MG Oral Tablet",
+        "label": "Phenobarbital 16.2 MG Oral Tablet"
+    },
+    {
+        "value": "Phenobarbital 60 MG Oral Tablet",
+        "label": "Phenobarbital 60 MG Oral Tablet"
+    },
+    {
+        "value": "Pimozide 2 MG Oral Tablet",
+        "label": "Pimozide 2 MG Oral Tablet"
+    },
+    {
+        "value": "Pindolol 10 MG Oral Tablet",
+        "label": "Pindolol 10 MG Oral Tablet"
+    },
+    {
+        "value": "Pindolol 5 MG Oral Tablet",
+        "label": "Pindolol 5 MG Oral Tablet"
+    },
+    {
+        "value": "Piroxicam 10 MG Oral Capsule",
+        "label": "Piroxicam 10 MG Oral Capsule"
+    },
+    {
+        "value": "Piroxicam 20 MG Oral Capsule",
+        "label": "Piroxicam 20 MG Oral Capsule"
+    },
+    {
+        "value": "Potassium Chloride 20 MEQ Extended Release Oral Tablet",
+        "label": "Potassium Chloride 20 MEQ Extended Release Oral Tablet"
+    },
+    {
+        "value": "Prazosin 5 MG Oral Capsule",
+        "label": "Prazosin 5 MG Oral Capsule"
+    },
+    {
+        "value": "Prednisone 1 MG Oral Tablet",
+        "label": "Prednisone 1 MG Oral Tablet"
+    },
+    {
+        "value": "Prednisone 2.5 MG Oral Tablet",
+        "label": "Prednisone 2.5 MG Oral Tablet"
+    },
+    {
+        "value": "Prednisone 50 MG Oral Tablet",
+        "label": "Prednisone 50 MG Oral Tablet"
+    },
+    {
+        "value": "Primidone 50 MG Oral Tablet",
+        "label": "Primidone 50 MG Oral Tablet"
+    },
+    {
+        "value": "Probenecid 500 MG Oral Tablet",
+        "label": "Probenecid 500 MG Oral Tablet"
+    },
+    {
+        "value": "Colchicine 0.5 MG / Probenecid 500 MG Oral Tablet",
+        "label": "Colchicine 0.5 MG / Probenecid 500 MG Oral Tablet"
+    },
+    {
+        "value": "Prochlorperazine 25 MG Rectal Suppository",
+        "label": "Prochlorperazine 25 MG Rectal Suppository"
+    },
+    {
+        "value": "Propantheline 15 MG Oral Tablet",
+        "label": "Propantheline 15 MG Oral Tablet"
+    },
+    {
+        "value": "Propylthiouracil 50 MG Oral Tablet",
+        "label": "Propylthiouracil 50 MG Oral Tablet"
+    },
+    {
+        "value": "Pyrazinamide 500 MG Oral Tablet",
+        "label": "Pyrazinamide 500 MG Oral Tablet"
+    },
+    {
+        "value": "Ramipril 2.5 MG Oral Capsule",
+        "label": "Ramipril 2.5 MG Oral Capsule"
+    },
+    {
+        "value": "Ramipril 5 MG Oral Capsule",
+        "label": "Ramipril 5 MG Oral Capsule"
+    },
+    {
+        "value": "Ranitidine 150 MG Oral Capsule",
+        "label": "Ranitidine 150 MG Oral Capsule"
+    },
+    {
+        "value": "Ranitidine 150 MG Oral Tablet",
+        "label": "Ranitidine 150 MG Oral Tablet"
+    },
+    {
+        "value": "Ranitidine 300 MG Oral Capsule",
+        "label": "Ranitidine 300 MG Oral Capsule"
+    },
+    {
+        "value": "Ranitidine 300 MG Oral Tablet",
+        "label": "Ranitidine 300 MG Oral Tablet"
+    },
+    {
+        "value": "Reserpine 0.1 MG Oral Tablet",
+        "label": "Reserpine 0.1 MG Oral Tablet"
+    },
+    {
+        "value": "Reserpine 0.25 MG Oral Tablet",
+        "label": "Reserpine 0.25 MG Oral Tablet"
+    },
+    {
+        "value": "Rifabutin 150 MG Oral Capsule",
+        "label": "Rifabutin 150 MG Oral Capsule"
+    },
+    {
+        "value": "Rifampin 150 MG Oral Capsule",
+        "label": "Rifampin 150 MG Oral Capsule"
+    },
+    {
+        "value": "Rifampin 300 MG Oral Capsule",
+        "label": "Rifampin 300 MG Oral Capsule"
+    },
+    {
+        "value": "Simvastatin 40 MG Oral Tablet",
+        "label": "Simvastatin 40 MG Oral Tablet"
+    },
+    {
+        "value": "Sodium Fluoride 0.55 MG Chewable Tablet",
+        "label": "Sodium Fluoride 0.55 MG Chewable Tablet"
+    },
+    {
+        "value": "Spironolactone 100 MG Oral Tablet",
+        "label": "Spironolactone 100 MG Oral Tablet"
+    },
+    {
+        "value": "Spironolactone 50 MG Oral Tablet",
+        "label": "Spironolactone 50 MG Oral Tablet"
+    },
+    {
+        "value": "Hydrochlorothiazide 25 MG / Spironolactone 25 MG Oral Tablet",
+        "label": "Hydrochlorothiazide 25 MG / Spironolactone 25 MG Oral Tablet"
+    },
+    {
+        "value": "Sulfadiazine 500 MG Oral Tablet",
+        "label": "Sulfadiazine 500 MG Oral Tablet"
+    },
+    {
+        "value": "Sulfasalazine 500 MG Oral Tablet",
+        "label": "Sulfasalazine 500 MG Oral Tablet"
+    },
+    {
+        "value": "Sulindac 150 MG Oral Tablet",
+        "label": "Sulindac 150 MG Oral Tablet"
+    },
+    {
+        "value": "Sulindac 200 MG Oral Tablet",
+        "label": "Sulindac 200 MG Oral Tablet"
+    },
+    {
+        "value": "Tamoxifen 10 MG Oral Tablet",
+        "label": "Tamoxifen 10 MG Oral Tablet"
+    },
+    {
+        "value": "Temazepam 15 MG Oral Capsule",
+        "label": "Temazepam 15 MG Oral Capsule"
+    },
+    {
+        "value": "Temazepam 30 MG Oral Capsule",
+        "label": "Temazepam 30 MG Oral Capsule"
+    },
+    {
+        "value": "Temazepam 7.5 MG Oral Capsule",
+        "label": "Temazepam 7.5 MG Oral Capsule"
+    },
+    {
+        "value": "terconazole 80 MG Vaginal Suppository",
+        "label": "terconazole 80 MG Vaginal Suppository"
+    },
+    {
+        "value": "Tetracycline 250 MG Oral Capsule",
+        "label": "Tetracycline 250 MG Oral Capsule"
+    },
+    {
+        "value": "Tetracycline 500 MG Oral Capsule",
+        "label": "Tetracycline 500 MG Oral Capsule"
+    },
+    {
+        "value": "Thioridazine 100 MG Oral Tablet",
+        "label": "Thioridazine 100 MG Oral Tablet"
+    },
+    {
+        "value": "Thioridazine 25 MG Oral Tablet",
+        "label": "Thioridazine 25 MG Oral Tablet"
+    },
+    {
+        "value": "Thioridazine 50 MG Oral Tablet",
+        "label": "Thioridazine 50 MG Oral Tablet"
+    },
+    {
+        "value": "Timolol 2.5 MG/ML Ophthalmic Solution",
+        "label": "Timolol 2.5 MG/ML Ophthalmic Solution"
+    },
+    {
+        "value": "Timolol 10 MG Oral Tablet",
+        "label": "Timolol 10 MG Oral Tablet"
+    },
+    {
+        "value": "Timolol 20 MG Oral Tablet",
+        "label": "Timolol 20 MG Oral Tablet"
+    },
+    {
+        "value": "Timolol 5 MG Oral Tablet",
+        "label": "Timolol 5 MG Oral Tablet"
+    },
+    {
+        "value": "Tolazamide 250 MG Oral Tablet",
+        "label": "Tolazamide 250 MG Oral Tablet"
+    },
+    {
+        "value": "Tolazamide 500 MG Oral Tablet",
+        "label": "Tolazamide 500 MG Oral Tablet"
+    },
+    {
+        "value": "Tolbutamide 500 MG Oral Tablet",
+        "label": "Tolbutamide 500 MG Oral Tablet"
+    },
+    {
+        "value": "Tolmetin 200 MG Oral Tablet",
+        "label": "Tolmetin 200 MG Oral Tablet"
+    },
+    {
+        "value": "Tolmetin 400 MG Oral Capsule",
+        "label": "Tolmetin 400 MG Oral Capsule"
+    },
+    {
+        "value": "Tolmetin 600 MG Oral Tablet",
+        "label": "Tolmetin 600 MG Oral Tablet"
+    },
+    {
+        "value": "Tretinoin 1 MG/ML Topical Cream",
+        "label": "Tretinoin 1 MG/ML Topical Cream"
+    },
+    {
+        "value": "Hydrochlorothiazide 25 MG / Triamterene 50 MG Oral Capsule",
+        "label": "Hydrochlorothiazide 25 MG / Triamterene 50 MG Oral Capsule"
+    },
+    {
+        "value": "Hydrochlorothiazide 25 MG / Triamterene 37.5 MG Oral Capsule",
+        "label": "Hydrochlorothiazide 25 MG / Triamterene 37.5 MG Oral Capsule"
+    },
+    {
+        "value": "Triazolam 0.125 MG Oral Tablet",
+        "label": "Triazolam 0.125 MG Oral Tablet"
+    },
+    {
+        "value": "Triazolam 0.25 MG Oral Tablet",
+        "label": "Triazolam 0.25 MG Oral Tablet"
+    },
+    {
+        "value": "Trifluoperazine 1 MG Oral Tablet",
+        "label": "Trifluoperazine 1 MG Oral Tablet"
+    },
+    {
+        "value": "Trifluoperazine 10 MG Oral Tablet",
+        "label": "Trifluoperazine 10 MG Oral Tablet"
+    },
+    {
+        "value": "Trifluoperazine 2 MG Oral Tablet",
+        "label": "Trifluoperazine 2 MG Oral Tablet"
+    },
+    {
+        "value": "Trifluoperazine 5 MG Oral Tablet",
+        "label": "Trifluoperazine 5 MG Oral Tablet"
+    },
+    {
+        "value": "Trimethoprim 100 MG Oral Tablet",
+        "label": "Trimethoprim 100 MG Oral Tablet"
+    },
+    {
+        "value": "Sulfamethoxazole 400 MG / Trimethoprim 80 MG Oral Tablet",
+        "label": "Sulfamethoxazole 400 MG / Trimethoprim 80 MG Oral Tablet"
+    },
+    {
+        "value": "Sulfamethoxazole 800 MG / Trimethoprim 160 MG Oral Tablet",
+        "label": "Sulfamethoxazole 800 MG / Trimethoprim 160 MG Oral Tablet"
+    },
+    {
+        "value": "Urea 400 MG/ML Topical Cream",
+        "label": "Urea 400 MG/ML Topical Cream"
+    },
+    {
+        "value": "Zidovudine 100 MG Oral Capsule",
+        "label": "Zidovudine 100 MG Oral Capsule"
+    },
+    {
+        "value": "felbamate 400 MG Oral Tablet",
+        "label": "felbamate 400 MG Oral Tablet"
+    },
+    {
+        "value": "felbamate 600 MG Oral Tablet",
+        "label": "felbamate 600 MG Oral Tablet"
+    },
+    {
+        "value": "prednicarbate 1 MG/ML Topical Cream",
+        "label": "prednicarbate 1 MG/ML Topical Cream"
+    },
+    {
+        "value": "Prochlorperazine 10 MG Oral Tablet",
+        "label": "Prochlorperazine 10 MG Oral Tablet"
+    },
+    {
+        "value": "torsemide 10 MG Oral Tablet",
+        "label": "torsemide 10 MG Oral Tablet"
+    },
+    {
+        "value": "torsemide 100 MG Oral Tablet",
+        "label": "torsemide 100 MG Oral Tablet"
+    },
+    {
+        "value": "torsemide 20 MG Oral Tablet",
+        "label": "torsemide 20 MG Oral Tablet"
+    },
+    {
+        "value": "torsemide 5 MG Oral Tablet",
+        "label": "torsemide 5 MG Oral Tablet"
+    },
+    {
+        "value": "calcipotriene 0.00005 MG/MG Topical Ointment",
+        "label": "calcipotriene 0.00005 MG/MG Topical Ointment"
+    },
+    {
+        "value": "Tacrolimus 1 MG Oral Capsule",
+        "label": "Tacrolimus 1 MG Oral Capsule"
+    },
+    {
+        "value": "Tacrolimus 5 MG Oral Capsule",
+        "label": "Tacrolimus 5 MG Oral Capsule"
+    },
+    {
+        "value": "famciclovir 500 MG Oral Tablet",
+        "label": "famciclovir 500 MG Oral Tablet"
+    },
+    {
+        "value": "lamotrigine 100 MG Oral Tablet",
+        "label": "lamotrigine 100 MG Oral Tablet"
+    },
+    {
+        "value": "lamotrigine 150 MG Oral Tablet",
+        "label": "lamotrigine 150 MG Oral Tablet"
+    },
+    {
+        "value": "lamotrigine 200 MG Oral Tablet",
+        "label": "lamotrigine 200 MG Oral Tablet"
+    },
+    {
+        "value": "lamotrigine 25 MG Disintegrating Oral Tablet",
+        "label": "lamotrigine 25 MG Disintegrating Oral Tablet"
+    },
+    {
+        "value": "Folic Acid 0.4 MG Oral Tablet",
+        "label": "Folic Acid 0.4 MG Oral Tablet"
+    },
+    {
+        "value": "Folic Acid 0.8 MG Oral Tablet",
+        "label": "Folic Acid 0.8 MG Oral Tablet"
+    },
+    {
+        "value": "amcinonide 1 MG/ML Topical Lotion",
+        "label": "amcinonide 1 MG/ML Topical Lotion"
+    },
+    {
+        "value": "Metronidazole 375 MG Oral Capsule",
+        "label": "Metronidazole 375 MG Oral Capsule"
+    },
+    {
+        "value": "mycophenolate mofetil 250 MG Oral Capsule",
+        "label": "mycophenolate mofetil 250 MG Oral Capsule"
+    },
+    {
+        "value": "Omeprazole 10 MG Delayed Release Oral Capsule",
+        "label": "Omeprazole 10 MG Delayed Release Oral Capsule"
+    },
+    {
+        "value": "bicalutamide 50 MG Oral Tablet",
+        "label": "bicalutamide 50 MG Oral Tablet"
+    },
+    {
+        "value": "Lamivudine 150 MG Oral Tablet",
+        "label": "Lamivudine 150 MG Oral Tablet"
+    },
+    {
+        "value": "Lamivudine 10 MG/ML Oral Solution",
+        "label": "Lamivudine 10 MG/ML Oral Solution"
+    },
+    {
+        "value": "Acarbose 50 MG Oral Tablet",
+        "label": "Acarbose 50 MG Oral Tablet"
+    },
+    {
+        "value": "Acarbose 100 MG Oral Tablet",
+        "label": "Acarbose 100 MG Oral Tablet"
+    },
+    {
+        "value": "Tretinoin 10 MG Oral Capsule",
+        "label": "Tretinoin 10 MG Oral Capsule"
+    },
+    {
+        "value": "Phenobarbital 97.2 MG Oral Tablet",
+        "label": "Phenobarbital 97.2 MG Oral Tablet"
+    },
+    {
+        "value": "Phenobarbital 32.4 MG Oral Tablet",
+        "label": "Phenobarbital 32.4 MG Oral Tablet"
+    },
+    {
+        "value": "Phenobarbital 64.8 MG Oral Tablet",
+        "label": "Phenobarbital 64.8 MG Oral Tablet"
+    },
+    {
+        "value": "famciclovir 125 MG Oral Tablet",
+        "label": "famciclovir 125 MG Oral Tablet"
+    },
+    {
+        "value": "famciclovir 250 MG Oral Tablet",
+        "label": "famciclovir 250 MG Oral Tablet"
+    },
+    {
+        "value": "Riluzole 50 MG Oral Tablet",
+        "label": "Riluzole 50 MG Oral Tablet"
+    },
+    {
+        "value": "anastrozole 1 MG Oral Tablet",
+        "label": "anastrozole 1 MG Oral Tablet"
+    },
+    {
+        "value": "glimepiride 1 MG Oral Tablet",
+        "label": "glimepiride 1 MG Oral Tablet"
+    },
+    {
+        "value": "glimepiride 2 MG Oral Tablet",
+        "label": "glimepiride 2 MG Oral Tablet"
+    },
+    {
+        "value": "glimepiride 4 MG Oral Tablet",
+        "label": "glimepiride 4 MG Oral Tablet"
+    },
+    {
+        "value": "trandolapril 2 MG Oral Tablet",
+        "label": "trandolapril 2 MG Oral Tablet"
+    },
+    {
+        "value": "trandolapril 4 MG Oral Tablet",
+        "label": "trandolapril 4 MG Oral Tablet"
+    },
+    {
+        "value": "trandolapril 1 MG Oral Tablet",
+        "label": "trandolapril 1 MG Oral Tablet"
+    },
+    {
+        "value": "Cholecalciferol 1000 UNT Oral Tablet",
+        "label": "Cholecalciferol 1000 UNT Oral Tablet"
+    },
+    {
+        "value": "Ciprofloxacin 100 MG Oral Tablet",
+        "label": "Ciprofloxacin 100 MG Oral Tablet"
+    },
+    {
+        "value": "potassium citrate 5 MEQ Extended Release Oral Tablet",
+        "label": "potassium citrate 5 MEQ Extended Release Oral Tablet"
+    },
+    {
+        "value": "potassium citrate 10 MEQ Extended Release Oral Tablet",
+        "label": "potassium citrate 10 MEQ Extended Release Oral Tablet"
+    },
+    {
+        "value": "Risperidone 1 MG/ML Oral Solution",
+        "label": "Risperidone 1 MG/ML Oral Solution"
+    },
+    {
+        "value": "Etodolac 500 MG Oral Tablet",
+        "label": "Etodolac 500 MG Oral Tablet"
+    },
+    {
+        "value": "Nevirapine 200 MG Oral Tablet",
+        "label": "Nevirapine 200 MG Oral Tablet"
+    },
+    {
+        "value": "Tinidazole 500 MG Oral Tablet",
+        "label": "Tinidazole 500 MG Oral Tablet"
+    },
+    {
+        "value": "Tetrabenazine 25 MG Oral Tablet",
+        "label": "Tetrabenazine 25 MG Oral Tablet"
+    },
+    {
+        "value": "zafirlukast 20 MG Oral Tablet",
+        "label": "zafirlukast 20 MG Oral Tablet"
+    },
+    {
+        "value": "Zidovudine 300 MG Oral Tablet",
+        "label": "Zidovudine 300 MG Oral Tablet"
+    },
+    {
+        "value": "Acitretin 10 MG Oral Capsule",
+        "label": "Acitretin 10 MG Oral Capsule"
+    },
+    {
+        "value": "Acitretin 25 MG Oral Capsule",
+        "label": "Acitretin 25 MG Oral Capsule"
+    },
+    {
+        "value": "cabergoline 0.5 MG Oral Tablet",
+        "label": "cabergoline 0.5 MG Oral Tablet"
+    },
+    {
+        "value": "Ergocalciferol 400 UNT Oral Tablet",
+        "label": "Ergocalciferol 400 UNT Oral Tablet"
+    },
+    {
+        "value": "Levofloxacin 250 MG Oral Tablet",
+        "label": "Levofloxacin 250 MG Oral Tablet"
+    },
+    {
+        "value": "Levofloxacin 500 MG Oral Tablet",
+        "label": "Levofloxacin 500 MG Oral Tablet"
+    },
+    {
+        "value": "topiramate 25 MG Oral Tablet",
+        "label": "topiramate 25 MG Oral Tablet"
+    },
+    {
+        "value": "topiramate 100 MG Oral Tablet",
+        "label": "topiramate 100 MG Oral Tablet"
+    },
+    {
+        "value": "topiramate 200 MG Oral Tablet",
+        "label": "topiramate 200 MG Oral Tablet"
+    },
+    {
+        "value": "Hydrochlorothiazide 12.5 MG Oral Capsule",
+        "label": "Hydrochlorothiazide 12.5 MG Oral Capsule"
+    },
+    {
+        "value": "carvedilol 6.25 MG Oral Tablet",
+        "label": "carvedilol 6.25 MG Oral Tablet"
+    },
+    {
+        "value": "carvedilol 12.5 MG Oral Tablet",
+        "label": "carvedilol 12.5 MG Oral Tablet"
+    },
+    {
+        "value": "carvedilol 25 MG Oral Tablet",
+        "label": "carvedilol 25 MG Oral Tablet"
+    },
+    {
+        "value": "olanzapine 2.5 MG Oral Tablet",
+        "label": "olanzapine 2.5 MG Oral Tablet"
+    },
+    {
+        "value": "mycophenolate mofetil 500 MG Oral Tablet",
+        "label": "mycophenolate mofetil 500 MG Oral Tablet"
+    },
+    {
+        "value": "letrozole 2.5 MG Oral Tablet",
+        "label": "letrozole 2.5 MG Oral Tablet"
+    },
+    {
+        "value": "Lamivudine 150 MG / Zidovudine 300 MG Oral Tablet",
+        "label": "Lamivudine 150 MG / Zidovudine 300 MG Oral Tablet"
+    },
+    {
+        "value": "irbesartan 75 MG Oral Tablet",
+        "label": "irbesartan 75 MG Oral Tablet"
+    },
+    {
+        "value": "irbesartan 150 MG Oral Tablet",
+        "label": "irbesartan 150 MG Oral Tablet"
+    },
+    {
+        "value": "irbesartan 300 MG Oral Tablet",
+        "label": "irbesartan 300 MG Oral Tablet"
+    },
+    {
+        "value": "12 HR Carbamazepine 300 MG Extended Release Oral Capsule",
+        "label": "12 HR Carbamazepine 300 MG Extended Release Oral Capsule"
+    },
+    {
+        "value": "Acarbose 25 MG Oral Tablet",
+        "label": "Acarbose 25 MG Oral Tablet"
+    },
+    {
+        "value": "12 HR Carbamazepine 200 MG Extended Release Oral Capsule",
+        "label": "12 HR Carbamazepine 200 MG Extended Release Oral Capsule"
+    },
+    {
+        "value": "zolmitriptan 2.5 MG Oral Tablet",
+        "label": "zolmitriptan 2.5 MG Oral Tablet"
+    },
+    {
+        "value": "zolmitriptan 5 MG Oral Tablet",
+        "label": "zolmitriptan 5 MG Oral Tablet"
+    },
+    {
+        "value": "tolcapone 100 MG Oral Tablet",
+        "label": "tolcapone 100 MG Oral Tablet"
+    },
+    {
+        "value": "montelukast 10 MG Oral Tablet",
+        "label": "montelukast 10 MG Oral Tablet"
+    },
+    {
+        "value": "paregoric 0.4 MG/ML Oral Solution",
+        "label": "paregoric 0.4 MG/ML Oral Solution"
+    },
+    {
+        "value": "repaglinide 1 MG Oral Tablet",
+        "label": "repaglinide 1 MG Oral Tablet"
+    },
+    {
+        "value": "repaglinide 0.5 MG Oral Tablet",
+        "label": "repaglinide 0.5 MG Oral Tablet"
+    },
+    {
+        "value": "repaglinide 2 MG Oral Tablet",
+        "label": "repaglinide 2 MG Oral Tablet"
+    },
+    {
+        "value": "Hydrochlorothiazide 12.5 MG / valsartan 80 MG Oral Tablet",
+        "label": "Hydrochlorothiazide 12.5 MG / valsartan 80 MG Oral Tablet"
+    },
+    {
+        "value": "Hydrochlorothiazide 12.5 MG / valsartan 160 MG Oral Tablet",
+        "label": "Hydrochlorothiazide 12.5 MG / valsartan 160 MG Oral Tablet"
+    },
+    {
+        "value": "Fenofibrate 67 MG Oral Capsule",
+        "label": "Fenofibrate 67 MG Oral Capsule"
+    },
+    {
+        "value": "capecitabine 150 MG Oral Tablet",
+        "label": "capecitabine 150 MG Oral Tablet"
+    },
+    {
+        "value": "capecitabine 500 MG Oral Tablet",
+        "label": "capecitabine 500 MG Oral Tablet"
+    },
+    {
+        "value": "Omeprazole 40 MG Delayed Release Oral Capsule",
+        "label": "Omeprazole 40 MG Delayed Release Oral Capsule"
+    },
+    {
+        "value": "Simvastatin 80 MG Oral Tablet",
+        "label": "Simvastatin 80 MG Oral Tablet"
+    },
+    {
+        "value": "cefdinir 300 MG Oral Capsule",
+        "label": "cefdinir 300 MG Oral Capsule"
+    },
+    {
+        "value": "Citalopram 20 MG Oral Tablet",
+        "label": "Citalopram 20 MG Oral Tablet"
+    },
+    {
+        "value": "Mafenide 85 MG/ML Topical Cream [Sulfamylon]",
+        "label": "Mafenide 85 MG/ML Topical Cream [Sulfamylon]"
+    },
+    {
+        "value": "Metyrosine 250 MG Oral Capsule [Demser]",
+        "label": "Metyrosine 250 MG Oral Capsule [Demser]"
+    },
+    {
+        "value": "Secobarbital 100 MG Oral Capsule [Seconal Sodium]",
+        "label": "Secobarbital 100 MG Oral Capsule [Seconal Sodium]"
+    },
+    {
+        "value": "Isocarboxazid 10 MG Oral Tablet [Marplan]",
+        "label": "Isocarboxazid 10 MG Oral Tablet [Marplan]"
+    },
+    {
+        "value": "Capreomycin 500 MG/ML Injectable Solution [Capastat]",
+        "label": "Capreomycin 500 MG/ML Injectable Solution [Capastat]"
+    },
+    {
+        "value": "Pyrimethamine 25 MG Oral Tablet [Daraprim]",
+        "label": "Pyrimethamine 25 MG Oral Tablet [Daraprim]"
+    },
+    {
+        "value": "Estrogens, Conjugated (USP) 1.25 MG Oral Tablet [Premarin]",
+        "label": "Estrogens, Conjugated (USP) 1.25 MG Oral Tablet [Premarin]"
+    },
+    {
+        "value": "Ketoconazole 20 MG/ML Topical Cream",
+        "label": "Ketoconazole 20 MG/ML Topical Cream"
+    },
+    {
+        "value": "Hydrocortisone 0.01 MG/MG Topical Ointment",
+        "label": "Hydrocortisone 0.01 MG/MG Topical Ointment"
+    },
+    {
+        "value": "Malathion 5 MG/ML Topical Lotion",
+        "label": "Malathion 5 MG/ML Topical Lotion"
+    },
+    {
+        "value": "Desonide 0.0005 MG/MG Topical Ointment",
+        "label": "Desonide 0.0005 MG/MG Topical Ointment"
+    },
+    {
+        "value": "Hydrocortisone 10 MG/ML / Neomycin 3.5 MG/ML / Polymyxin B 10000 UNT/ML Otic Solution",
+        "label": "Hydrocortisone 10 MG/ML / Neomycin 3.5 MG/ML / Polymyxin B 10000 UNT/ML Otic Solution"
+    },
+    {
+        "value": "isoniazid 100 MG/ML Injectable Solution",
+        "label": "isoniazid 100 MG/ML Injectable Solution"
+    },
+    {
+        "value": "Famotidine 10 MG/ML Injectable Solution",
+        "label": "Famotidine 10 MG/ML Injectable Solution"
+    },
+    {
+        "value": "Azithromycin 600 MG Oral Tablet",
+        "label": "Azithromycin 600 MG Oral Tablet"
+    },
+    {
+        "value": "Hydrocortisone 10 MG/ML / Neomycin 3.5 MG/ML / Polymyxin B 10000 UNT/ML Ophthalmic Suspension",
+        "label": "Hydrocortisone 10 MG/ML / Neomycin 3.5 MG/ML / Polymyxin B 10000 UNT/ML Ophthalmic Suspension"
+    },
+    {
+        "value": "diphtheria toxoid vaccine, inactivated 4 UNT/ML / tetanus toxoid vaccine, inactivated 4 UNT/ML Injectable Suspension",
+        "label": "diphtheria toxoid vaccine, inactivated 4 UNT/ML / tetanus toxoid vaccine, inactivated 4 UNT/ML Injectable Suspension"
+    },
+    {
+        "value": "leflunomide 10 MG Oral Tablet",
+        "label": "leflunomide 10 MG Oral Tablet"
+    },
+    {
+        "value": "leflunomide 20 MG Oral Tablet",
+        "label": "leflunomide 20 MG Oral Tablet"
+    },
+    {
+        "value": "telmisartan 40 MG Oral Tablet",
+        "label": "telmisartan 40 MG Oral Tablet"
+    },
+    {
+        "value": "telmisartan 80 MG Oral Tablet",
+        "label": "telmisartan 80 MG Oral Tablet"
+    },
+    {
+        "value": "topiramate 25 MG Oral Capsule",
+        "label": "topiramate 25 MG Oral Capsule"
+    },
+    {
+        "value": "topiramate 15 MG Oral Capsule",
+        "label": "topiramate 15 MG Oral Capsule"
+    },
+    {
+        "value": "celecoxib 100 MG Oral Capsule",
+        "label": "celecoxib 100 MG Oral Capsule"
+    },
+    {
+        "value": "celecoxib 200 MG Oral Capsule",
+        "label": "celecoxib 200 MG Oral Capsule"
+    },
+    {
+        "value": "modafinil 200 MG Oral Tablet",
+        "label": "modafinil 200 MG Oral Tablet"
+    },
+    {
+        "value": "Lisinopril 30 MG Oral Tablet",
+        "label": "Lisinopril 30 MG Oral Tablet"
+    },
+    {
+        "value": "Lamivudine 100 MG Oral Tablet",
+        "label": "Lamivudine 100 MG Oral Tablet"
+    },
+    {
+        "value": "Anthralin 10 MG/ML Topical Cream [Drithocreme]",
+        "label": "Anthralin 10 MG/ML Topical Cream [Drithocreme]"
+    },
+    {
+        "value": "Dornase Alfa 1 MG/ML Inhalant Solution [Pulmozyme]",
+        "label": "Dornase Alfa 1 MG/ML Inhalant Solution [Pulmozyme]"
+    },
+    {
+        "value": "Estramustine 140 MG Oral Capsule [Emcyt]",
+        "label": "Estramustine 140 MG Oral Capsule [Emcyt]"
+    },
+    {
+        "value": "Flurandrenolide 0.5 MG/ML Topical Lotion [Cordran]",
+        "label": "Flurandrenolide 0.5 MG/ML Topical Lotion [Cordran]"
+    },
+    {
+        "value": "Flurandrenolide 0.0005 MG/MG Topical Ointment [Cordran]",
+        "label": "Flurandrenolide 0.0005 MG/MG Topical Ointment [Cordran]"
+    },
+    {
+        "value": "Dexamethasone 1 MG/ML Ophthalmic Suspension [Maxidex]",
+        "label": "Dexamethasone 1 MG/ML Ophthalmic Suspension [Maxidex]"
+    },
+    {
+        "value": "Echothiophate Iodide 1.25 MG/ML Ophthalmic Solution [Phospholine Iodide]",
+        "label": "Echothiophate Iodide 1.25 MG/ML Ophthalmic Solution [Phospholine Iodide]"
+    },
+    {
+        "value": "Epoetin Alfa 10000 UNT/ML Injectable Solution [Epogen]",
+        "label": "Epoetin Alfa 10000 UNT/ML Injectable Solution [Epogen]"
+    },
+    {
+        "value": "Epoetin Alfa 10000 UNT/ML Injectable Solution [Procrit]",
+        "label": "Epoetin Alfa 10000 UNT/ML Injectable Solution [Procrit]"
+    },
+    {
+        "value": "1 ML Epoetin Alfa 2000 UNT/ML Injection [Epogen]",
+        "label": "1 ML Epoetin Alfa 2000 UNT/ML Injection [Epogen]"
+    },
+    {
+        "value": "1 ML Epoetin Alfa 2000 UNT/ML Injection [Procrit]",
+        "label": "1 ML Epoetin Alfa 2000 UNT/ML Injection [Procrit]"
+    },
+    {
+        "value": "1 ML Epoetin Alfa 3000 UNT/ML Injection [Epogen]",
+        "label": "1 ML Epoetin Alfa 3000 UNT/ML Injection [Epogen]"
+    },
+    {
+        "value": "1 ML Epoetin Alfa 3000 UNT/ML Injection [Procrit]",
+        "label": "1 ML Epoetin Alfa 3000 UNT/ML Injection [Procrit]"
+    },
+    {
+        "value": "1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen]",
+        "label": "1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen]"
+    },
+    {
+        "value": "1 ML Epoetin Alfa 4000 UNT/ML Injection [Procrit]",
+        "label": "1 ML Epoetin Alfa 4000 UNT/ML Injection [Procrit]"
+    },
+    {
+        "value": "clocortolone 1 MG/ML Topical Cream [Cloderm]",
+        "label": "clocortolone 1 MG/ML Topical Cream [Cloderm]"
+    },
+    {
+        "value": "Erythromycin 250 MG Delayed Release Oral Tablet [Ery-Tab]",
+        "label": "Erythromycin 250 MG Delayed Release Oral Tablet [Ery-Tab]"
+    },
+    {
+        "value": "Erythromycin 333 MG Delayed Release Oral Tablet [Ery-Tab]",
+        "label": "Erythromycin 333 MG Delayed Release Oral Tablet [Ery-Tab]"
+    },
+    {
+        "value": "Erythromycin 500 MG Delayed Release Oral Tablet [Ery-Tab]",
+        "label": "Erythromycin 500 MG Delayed Release Oral Tablet [Ery-Tab]"
+    },
+    {
+        "value": "lansoprazole 15 MG Disintegrating Oral Tablet [Prevacid]",
+        "label": "lansoprazole 15 MG Disintegrating Oral Tablet [Prevacid]"
+    },
+    {
+        "value": "aluminum chloride 200 MG/ML Topical Solution [Drysol]",
+        "label": "aluminum chloride 200 MG/ML Topical Solution [Drysol]"
+    },
+    {
+        "value": "Erythromycin 0.02 MG/MG Topical Gel [Erygel]",
+        "label": "Erythromycin 0.02 MG/MG Topical Gel [Erygel]"
+    },
+    {
+        "value": "Iron-Dextran Complex 50 MG/ML Injectable Solution [InFed]",
+        "label": "Iron-Dextran Complex 50 MG/ML Injectable Solution [InFed]"
+    },
+    {
+        "value": "Levocarnitine 100 MG/ML Oral Solution [Carnitor]",
+        "label": "Levocarnitine 100 MG/ML Oral Solution [Carnitor]"
+    },
+    {
+        "value": "Hydrocortisone 10 MG/ML Topical Cream [Ala-Cort]",
+        "label": "Hydrocortisone 10 MG/ML Topical Cream [Ala-Cort]"
+    },
+    {
+        "value": "Estradiol 5 MG/ML Injectable Solution [Depo-estradiol]",
+        "label": "Estradiol 5 MG/ML Injectable Solution [Depo-estradiol]"
+    },
+    {
+        "value": "Halcinonide 1 MG/ML Topical Cream [Halog]",
+        "label": "Halcinonide 1 MG/ML Topical Cream [Halog]"
+    },
+    {
+        "value": "Halcinonide 0.001 MG/MG Topical Ointment [Halog]",
+        "label": "Halcinonide 0.001 MG/MG Topical Ointment [Halog]"
+    },
+    {
+        "value": "isoniazid 50 MG / Pyrazinamide 300 MG / Rifampin 120 MG Oral Tablet [Rifater]",
+        "label": "isoniazid 50 MG / Pyrazinamide 300 MG / Rifampin 120 MG Oral Tablet [Rifater]"
+    },
+    {
+        "value": "Ethotoin 250 MG Oral Tablet [Peganone]",
+        "label": "Ethotoin 250 MG Oral Tablet [Peganone]"
+    },
+    {
+        "value": "Lithium Carbonate 300 MG Extended Release Oral Tablet [Lithobid]",
+        "label": "Lithium Carbonate 300 MG Extended Release Oral Tablet [Lithobid]"
+    },
+    {
+        "value": "mesalamine 250 MG Extended Release Oral Capsule [Pentasa]",
+        "label": "mesalamine 250 MG Extended Release Oral Capsule [Pentasa]"
+    },
+    {
+        "value": "Lodoxamide 1 MG/ML Ophthalmic Solution [Alomide]",
+        "label": "Lodoxamide 1 MG/ML Ophthalmic Solution [Alomide]"
+    },
+    {
+        "value": "Isosorbide Dinitrate 20 MG Oral Tablet",
+        "label": "Isosorbide Dinitrate 20 MG Oral Tablet"
+    },
+    {
+        "value": "Interferon Alfa-2b 6000000 UNT/ML Injectable Solution [Intron A]",
+        "label": "Interferon Alfa-2b 6000000 UNT/ML Injectable Solution [Intron A]"
+    },
+    {
+        "value": "Interferon Alfa-2b 50000000 UNT Injection [Intron A]",
+        "label": "Interferon Alfa-2b 50000000 UNT Injection [Intron A]"
+    },
+    {
+        "value": "interferon beta-1b 0.3 MG Injection [Betaseron]",
+        "label": "interferon beta-1b 0.3 MG Injection [Betaseron]"
+    },
+    {
+        "value": "Methoxsalen 10 MG Oral Capsule [8-MOP]",
+        "label": "Methoxsalen 10 MG Oral Capsule [8-MOP]"
+    },
+    {
+        "value": "methsuximide 300 MG Oral Capsule [Celontin]",
+        "label": "methsuximide 300 MG Oral Capsule [Celontin]"
+    },
+    {
+        "value": "Natamycin 50 MG/ML Ophthalmic Suspension [Natacyn]",
+        "label": "Natamycin 50 MG/ML Ophthalmic Suspension [Natacyn]"
+    },
+    {
+        "value": "oxiconazole 10 MG/ML Topical Cream [Oxistat]",
+        "label": "oxiconazole 10 MG/ML Topical Cream [Oxistat]"
+    },
+    {
+        "value": "oxiconazole 10 MG/ML Topical Lotion [Oxistat]",
+        "label": "oxiconazole 10 MG/ML Topical Lotion [Oxistat]"
+    },
+    {
+        "value": "meningococcal group A polysaccharide 0.1 MG/ML / meningococcal group C polysaccharide 0.1 MG/ML / MENINGOCOCCAL POLYSACCHARIDE VACCINE GROUP W-135 0.1 MG/ML / MENINGOCOCCAL POLYSACCHARIDE VACCINE GROUP Y 0.1 MG/ML Injectable Solution [Menomune A/C/Y/W-135]",
+        "label": "meningococcal group A polysaccharide 0.1 MG/ML / meningococcal group C polysaccharide 0.1 MG/ML / MENINGOCOCCAL POLYSACCHARIDE VACCINE GROUP W-135 0.1 MG/ML / MENINGOCOCCAL POLYSACCHARIDE VACCINE GROUP Y 0.1 MG/ML Injectable Solution [Menomune A/C/Y/W-135]"
+    },
+    {
+        "value": "Nitroglycerin 0.02 MG/MG Topical Ointment [Nitro-Bid]",
+        "label": "Nitroglycerin 0.02 MG/MG Topical Ointment [Nitro-Bid]"
+    },
+    {
+        "value": "Nitroglycerin 0.3 MG Sublingual Tablet [Nitrostat]",
+        "label": "Nitroglycerin 0.3 MG Sublingual Tablet [Nitrostat]"
+    },
+    {
+        "value": "Nitroglycerin 0.4 MG Sublingual Tablet [Nitrostat]",
+        "label": "Nitroglycerin 0.4 MG Sublingual Tablet [Nitrostat]"
+    },
+    {
+        "value": "Nitroglycerin 0.6 MG Sublingual Tablet [Nitrostat]",
+        "label": "Nitroglycerin 0.6 MG Sublingual Tablet [Nitrostat]"
+    },
+    {
+        "value": "Minocycline 50 MG Oral Tablet",
+        "label": "Minocycline 50 MG Oral Tablet"
+    },
+    {
+        "value": "Minocycline 100 MG Oral Tablet",
+        "label": "Minocycline 100 MG Oral Tablet"
+    },
+    {
+        "value": "Penicillamine 250 MG Oral Capsule [Cuprimine]",
+        "label": "Penicillamine 250 MG Oral Capsule [Cuprimine]"
+    },
+    {
+        "value": "Penicillamine 250 MG Oral Tablet [Depen]",
+        "label": "Penicillamine 250 MG Oral Tablet [Depen]"
+    },
+    {
+        "value": "Mitotane 500 MG Oral Tablet [Lysodren]",
+        "label": "Mitotane 500 MG Oral Tablet [Lysodren]"
+    },
+    {
+        "value": "rimexolone 10 MG/ML Ophthalmic Suspension [Vexol]",
+        "label": "rimexolone 10 MG/ML Ophthalmic Suspension [Vexol]"
+    },
+    {
+        "value": "Procarbazine 50 MG Oral Capsule [Matulane]",
+        "label": "Procarbazine 50 MG Oral Capsule [Matulane]"
+    },
+    {
+        "value": "Diazoxide 50 MG/ML Oral Suspension [Proglycem]",
+        "label": "Diazoxide 50 MG/ML Oral Suspension [Proglycem]"
+    },
+    {
+        "value": "Somatropin 5 MG Injection [Humatrope]",
+        "label": "Somatropin 5 MG Injection [Humatrope]"
+    },
+    {
+        "value": "Somatropin 5 MG/ML Injectable Solution [Saizen]",
+        "label": "Somatropin 5 MG/ML Injectable Solution [Saizen]"
+    },
+    {
+        "value": "Tobramycin 0.003 MG/MG Ophthalmic Ointment [Tobrex]",
+        "label": "Tobramycin 0.003 MG/MG Ophthalmic Ointment [Tobrex]"
+    },
+    {
+        "value": "crotamiton 100 MG/ML Topical Cream [Eurax]",
+        "label": "crotamiton 100 MG/ML Topical Cream [Eurax]"
+    },
+    {
+        "value": "crotamiton 100 MG/ML Topical Lotion [Eurax]",
+        "label": "crotamiton 100 MG/ML Topical Lotion [Eurax]"
+    },
+    {
+        "value": "Succimer 100 MG Oral Capsule [Chemet]",
+        "label": "Succimer 100 MG Oral Capsule [Chemet]"
+    },
+    {
+        "value": "sargramostim 0.25 MG/ML Injectable Solution [Leukine]",
+        "label": "sargramostim 0.25 MG/ML Injectable Solution [Leukine]"
+    },
+    {
+        "value": "Sucralfate 100 MG/ML Oral Suspension [Carafate]",
+        "label": "Sucralfate 100 MG/ML Oral Suspension [Carafate]"
+    },
+    {
+        "value": "sulconazole 10 MG/ML Topical Cream [Exelderm]",
+        "label": "sulconazole 10 MG/ML Topical Cream [Exelderm]"
+    },
+    {
+        "value": "sulconazole 10 MG/ML Topical Solution [Exelderm]",
+        "label": "sulconazole 10 MG/ML Topical Solution [Exelderm]"
+    },
+    {
+        "value": "Silver Sulfadiazine 10 MG/ML Topical Cream [SSD]",
+        "label": "Silver Sulfadiazine 10 MG/ML Topical Cream [SSD]"
+    },
+    {
+        "value": "Silver Sulfadiazine 10 MG/ML Topical Cream [Thermazene]",
+        "label": "Silver Sulfadiazine 10 MG/ML Topical Cream [Thermazene]"
+    },
+    {
+        "value": "Theophylline 100 MG Extended Release Oral Tablet [Theochron]",
+        "label": "Theophylline 100 MG Extended Release Oral Tablet [Theochron]"
+    },
+    {
+        "value": "Theophylline 300 MG Extended Release Oral Tablet [Theochron]",
+        "label": "Theophylline 300 MG Extended Release Oral Tablet [Theochron]"
+    },
+    {
+        "value": "Tretinoin 0.25 MG/ML Topical Cream [Avita]",
+        "label": "Tretinoin 0.25 MG/ML Topical Cream [Avita]"
+    },
+    {
+        "value": "Tretinoin 0.00025 MG/MG Topical Gel [Avita]",
+        "label": "Tretinoin 0.00025 MG/MG Topical Gel [Avita]"
+    },
+    {
+        "value": "Sulfamethoxazole 40 MG/ML / Trimethoprim 8 MG/ML Oral Suspension [Sulfatrim]",
+        "label": "Sulfamethoxazole 40 MG/ML / Trimethoprim 8 MG/ML Oral Suspension [Sulfatrim]"
+    },
+    {
+        "value": "Fluorometholone 2.5 MG/ML Ophthalmic Suspension [FML Forte Liquifilm]",
+        "label": "Fluorometholone 2.5 MG/ML Ophthalmic Suspension [FML Forte Liquifilm]"
+    },
+    {
+        "value": "Estrogens, Conjugated (USP) 0.3 MG Oral Tablet [Premarin]",
+        "label": "Estrogens, Conjugated (USP) 0.3 MG Oral Tablet [Premarin]"
+    },
+    {
+        "value": "thyroid (USP) 15 MG Oral Tablet [Armour Thyroid]",
+        "label": "thyroid (USP) 15 MG Oral Tablet [Armour Thyroid]"
+    },
+    {
+        "value": "thyroid (USP) 30 MG Oral Tablet [Armour Thyroid]",
+        "label": "thyroid (USP) 30 MG Oral Tablet [Armour Thyroid]"
+    },
+    {
+        "value": "thyroid (USP) 60 MG Oral Tablet [Armour Thyroid]",
+        "label": "thyroid (USP) 60 MG Oral Tablet [Armour Thyroid]"
+    },
+    {
+        "value": "thyroid (USP) 90 MG Oral Tablet [Armour Thyroid]",
+        "label": "thyroid (USP) 90 MG Oral Tablet [Armour Thyroid]"
+    },
+    {
+        "value": "thyroid (USP) 120 MG Oral Tablet [Armour Thyroid]",
+        "label": "thyroid (USP) 120 MG Oral Tablet [Armour Thyroid]"
+    },
+    {
+        "value": "thyroid (USP) 180 MG Oral Tablet [Armour Thyroid]",
+        "label": "thyroid (USP) 180 MG Oral Tablet [Armour Thyroid]"
+    },
+    {
+        "value": "thyroid (USP) 240 MG Oral Tablet [Armour Thyroid]",
+        "label": "thyroid (USP) 240 MG Oral Tablet [Armour Thyroid]"
+    },
+    {
+        "value": "thyroid (USP) 300 MG Oral Tablet [Armour Thyroid]",
+        "label": "thyroid (USP) 300 MG Oral Tablet [Armour Thyroid]"
+    },
+    {
+        "value": "Timolol 2.5 MG/ML Ophthalmic Solution [Betimol]",
+        "label": "Timolol 2.5 MG/ML Ophthalmic Solution [Betimol]"
+    },
+    {
+        "value": "Timolol 5 MG/ML Ophthalmic Solution [Betimol]",
+        "label": "Timolol 5 MG/ML Ophthalmic Solution [Betimol]"
+    },
+    {
+        "value": "Triamterene 100 MG Oral Capsule [Dyrenium]",
+        "label": "Triamterene 100 MG Oral Capsule [Dyrenium]"
+    },
+    {
+        "value": "Triamterene 50 MG Oral Capsule [Dyrenium]",
+        "label": "Triamterene 50 MG Oral Capsule [Dyrenium]"
+    },
+    {
+        "value": "Trientine 250 MG Oral Capsule [Syprine]",
+        "label": "Trientine 250 MG Oral Capsule [Syprine]"
+    },
+    {
+        "value": "Dexamethasone 0.001 MG/MG / Tobramycin 0.003 MG/MG Ophthalmic Ointment [Tobradex]",
+        "label": "Dexamethasone 0.001 MG/MG / Tobramycin 0.003 MG/MG Ophthalmic Ointment [Tobradex]"
+    },
+    {
+        "value": "Hydrocortisone 100 MG Injection [A-Hydrocort]",
+        "label": "Hydrocortisone 100 MG Injection [A-Hydrocort]"
+    },
+    {
+        "value": "Estrogens, Conjugated (USP) 0.9 MG Oral Tablet [Premarin]",
+        "label": "Estrogens, Conjugated (USP) 0.9 MG Oral Tablet [Premarin]"
+    },
+    {
+        "value": "Praziquantel 600 MG Oral Tablet [Biltricide]",
+        "label": "Praziquantel 600 MG Oral Tablet [Biltricide]"
+    },
+    {
+        "value": "prednisolone 1.2 MG/ML Ophthalmic Suspension [Pred Mild]",
+        "label": "prednisolone 1.2 MG/ML Ophthalmic Suspension [Pred Mild]"
+    },
+    {
+        "value": "potassium phosphate 305 MG / Sodium Phosphate, Monobasic 700 MG Oral Tablet [K-Phos No 2]",
+        "label": "potassium phosphate 305 MG / Sodium Phosphate, Monobasic 700 MG Oral Tablet [K-Phos No 2]"
+    },
+    {
+        "value": "Citric Acid 66.8 MG/ML / potassium citrate 220 MG/ML Oral Solution [Cytra-K]",
+        "label": "Citric Acid 66.8 MG/ML / potassium citrate 220 MG/ML Oral Solution [Cytra-K]"
+    },
+    {
+        "value": "Cholecalciferol 400 UNT Oral Tablet [Delta D3]",
+        "label": "Cholecalciferol 400 UNT Oral Tablet [Delta D3]"
+    },
+    {
+        "value": "Bacitracin 5000 UNT/ML Injectable Solution [Baci-IM]",
+        "label": "Bacitracin 5000 UNT/ML Injectable Solution [Baci-IM]"
+    },
+    {
+        "value": "Cysteamine 150 MG Oral Capsule [Cystagon]",
+        "label": "Cysteamine 150 MG Oral Capsule [Cystagon]"
+    },
+    {
+        "value": "Cysteamine 50 MG Oral Capsule [Cystagon]",
+        "label": "Cysteamine 50 MG Oral Capsule [Cystagon]"
+    },
+    {
+        "value": "Acetaminophen 325 MG / butalbital 50 MG Oral Tablet [Marten-Tab]",
+        "label": "Acetaminophen 325 MG / butalbital 50 MG Oral Tablet [Marten-Tab]"
+    },
+    {
+        "value": "apraclonidine 10 MG/ML Ophthalmic Solution [Iopidine]",
+        "label": "apraclonidine 10 MG/ML Ophthalmic Solution [Iopidine]"
+    },
+    {
+        "value": "Pentosan Polysulfate 100 MG Oral Capsule [Elmiron]",
+        "label": "Pentosan Polysulfate 100 MG Oral Capsule [Elmiron]"
+    },
+    {
+        "value": "Albendazole 200 MG Oral Tablet [Albenza]",
+        "label": "Albendazole 200 MG Oral Tablet [Albenza]"
+    },
+    {
+        "value": "Acetaminophen 325 MG / butalbital 50 MG / Caffeine 40 MG Oral Capsule [Margesic]",
+        "label": "Acetaminophen 325 MG / butalbital 50 MG / Caffeine 40 MG Oral Capsule [Margesic]"
+    },
+    {
+        "value": "penciclovir 10 MG/ML Topical Cream [Denavir]",
+        "label": "penciclovir 10 MG/ML Topical Cream [Denavir]"
+    },
+    {
+        "value": "6-Aminocaproic Acid 500 MG Oral Tablet [Amicar]",
+        "label": "6-Aminocaproic Acid 500 MG Oral Tablet [Amicar]"
+    },
+    {
+        "value": "zileuton 600 MG Oral Tablet [Zyflo]",
+        "label": "zileuton 600 MG Oral Tablet [Zyflo]"
+    },
+    {
+        "value": "Carbamazepine 200 MG Oral Tablet [Epitol]",
+        "label": "Carbamazepine 200 MG Oral Tablet [Epitol]"
+    },
+    {
+        "value": "Aspirin 325 MG Oral Tablet [Bayer Aspirin]",
+        "label": "Aspirin 325 MG Oral Tablet [Bayer Aspirin]"
+    },
+    {
+        "value": "Estrogens, Conjugated (USP) 25 MG Injection [Premarin]",
+        "label": "Estrogens, Conjugated (USP) 25 MG Injection [Premarin]"
+    },
+    {
+        "value": "Aspirin 325 MG Oral Tablet",
+        "label": "Aspirin 325 MG Oral Tablet"
+    },
+    {
+        "value": "Estrogens, Esterified (USP) 0.3 MG Oral Tablet [Menest]",
+        "label": "Estrogens, Esterified (USP) 0.3 MG Oral Tablet [Menest]"
+    },
+    {
+        "value": "Nelfinavir 250 MG Oral Tablet [Viracept]",
+        "label": "Nelfinavir 250 MG Oral Tablet [Viracept]"
+    },
+    {
+        "value": "Epoetin Alfa 20000 UNT/ML Injectable Solution [Epogen]",
+        "label": "Epoetin Alfa 20000 UNT/ML Injectable Solution [Epogen]"
+    },
+    {
+        "value": "Epoetin Alfa 20000 UNT/ML Injectable Solution [Procrit]",
+        "label": "Epoetin Alfa 20000 UNT/ML Injectable Solution [Procrit]"
+    },
+    {
+        "value": "Estrogens, Esterified (USP) 0.625 MG Oral Tablet [Menest]",
+        "label": "Estrogens, Esterified (USP) 0.625 MG Oral Tablet [Menest]"
+    },
+    {
+        "value": "Estrogens, Esterified (USP) 1.25 MG Oral Tablet [Menest]",
+        "label": "Estrogens, Esterified (USP) 1.25 MG Oral Tablet [Menest]"
+    },
+    {
+        "value": "aminosalicylic acid 4000 MG Oral Granules [Paser D/R]",
+        "label": "aminosalicylic acid 4000 MG Oral Granules [Paser D/R]"
+    },
+    {
+        "value": "tazarotene 0.0005 MG/MG Topical Gel [Tazorac]",
+        "label": "tazarotene 0.0005 MG/MG Topical Gel [Tazorac]"
+    },
+    {
+        "value": "tazarotene 0.001 MG/MG Topical Gel [Tazorac]",
+        "label": "tazarotene 0.001 MG/MG Topical Gel [Tazorac]"
+    },
+    {
+        "value": "Estrogens, Esterified (USP) 2.5 MG Oral Tablet [Menest]",
+        "label": "Estrogens, Esterified (USP) 2.5 MG Oral Tablet [Menest]"
+    },
+    {
+        "value": "Cimetidine 60 MG/ML Oral Solution",
+        "label": "Cimetidine 60 MG/ML Oral Solution"
+    },
+    {
+        "value": "Dolasetron 50 MG Oral Tablet [Anzemet]",
+        "label": "Dolasetron 50 MG Oral Tablet [Anzemet]"
+    },
+    {
+        "value": "Dolasetron 100 MG Oral Tablet [Anzemet]",
+        "label": "Dolasetron 100 MG Oral Tablet [Anzemet]"
+    },
+    {
+        "value": "Sodium phenylbutyrate 500 MG Oral Tablet [Buphenyl]",
+        "label": "Sodium phenylbutyrate 500 MG Oral Tablet [Buphenyl]"
+    },
+    {
+        "value": "Becaplermin 0.0001 MG/MG Topical Gel [Regranex]",
+        "label": "Becaplermin 0.0001 MG/MG Topical Gel [Regranex]"
+    },
+    {
+        "value": "emedastine 0.5 MG/ML Ophthalmic Solution [Emadine]",
+        "label": "emedastine 0.5 MG/ML Ophthalmic Solution [Emadine]"
+    },
+    {
+        "value": "loteprednol etabonate 2 MG/ML Ophthalmic Suspension [Alrex]",
+        "label": "loteprednol etabonate 2 MG/ML Ophthalmic Suspension [Alrex]"
+    },
+    {
+        "value": "loteprednol etabonate 5 MG/ML Ophthalmic Suspension [Lotemax]",
+        "label": "loteprednol etabonate 5 MG/ML Ophthalmic Suspension [Lotemax]"
+    },
+    {
+        "value": "brinzolamide 10 MG/ML Ophthalmic Suspension [Azopt]",
+        "label": "brinzolamide 10 MG/ML Ophthalmic Suspension [Azopt]"
+    },
+    {
+        "value": "Ciprofloxacin 2 MG/ML / Hydrocortisone 10 MG/ML Otic Suspension [Cipro HC]",
+        "label": "Ciprofloxacin 2 MG/ML / Hydrocortisone 10 MG/ML Otic Suspension [Cipro HC]"
+    },
+    {
+        "value": "Sacrosidase 8500 UNT/ML Oral Solution [Sucraid]",
+        "label": "Sacrosidase 8500 UNT/ML Oral Solution [Sucraid]"
+    },
+    {
+        "value": "Thalidomide 50 MG Oral Capsule [Thalomid]",
+        "label": "Thalidomide 50 MG Oral Capsule [Thalomid]"
+    },
+    {
+        "value": "efavirenz 200 MG Oral Capsule [Sustiva]",
+        "label": "efavirenz 200 MG Oral Capsule [Sustiva]"
+    },
+    {
+        "value": "efavirenz 50 MG Oral Capsule [Sustiva]",
+        "label": "efavirenz 50 MG Oral Capsule [Sustiva]"
+    },
+    {
+        "value": "insulin human, isophane 70 UNT/ML / Regular Insulin, Human 30 UNT/ML Injectable Suspension [Novolin]",
+        "label": "insulin human, isophane 70 UNT/ML / Regular Insulin, Human 30 UNT/ML Injectable Suspension [Novolin]"
+    },
+    {
+        "value": "1 ML Epoetin Alfa 40000 UNT/ML Injection [Procrit]",
+        "label": "1 ML Epoetin Alfa 40000 UNT/ML Injection [Procrit]"
+    },
+    {
+        "value": "Lamivudine 5 MG/ML Oral Solution [Epivir HBV]",
+        "label": "Lamivudine 5 MG/ML Oral Solution [Epivir HBV]"
+    },
+    {
+        "value": "miglitol 25 MG Oral Tablet [Glyset]",
+        "label": "miglitol 25 MG Oral Tablet [Glyset]"
+    },
+    {
+        "value": "miglitol 50 MG Oral Tablet [Glyset]",
+        "label": "miglitol 50 MG Oral Tablet [Glyset]"
+    },
+    {
+        "value": "miglitol 100 MG Oral Tablet [Glyset]",
+        "label": "miglitol 100 MG Oral Tablet [Glyset]"
+    },
+    {
+        "value": "alitretinoin 0.001 MG/MG Topical Gel [Panretin]",
+        "label": "alitretinoin 0.001 MG/MG Topical Gel [Panretin]"
+    },
+    {
+        "value": "Auranofin 3 MG Oral Capsule [Ridaura]",
+        "label": "Auranofin 3 MG Oral Capsule [Ridaura]"
+    },
+    {
+        "value": "Acetic Acid 20 MG/ML / Hydrocortisone 10 MG/ML Otic Solution [Acetasol HC]",
+        "label": "Acetic Acid 20 MG/ML / Hydrocortisone 10 MG/ML Otic Solution [Acetasol HC]"
+    },
+    {
+        "value": "salmon calcitonin 200 UNT/ML Injectable Solution [Miacalcin]",
+        "label": "salmon calcitonin 200 UNT/ML Injectable Solution [Miacalcin]"
+    },
+    {
+        "value": "Bacitracin 0.5 UNT/MG / Polymyxin B 10 UNT/MG Ophthalmic Ointment [Polycin-B]",
+        "label": "Bacitracin 0.5 UNT/MG / Polymyxin B 10 UNT/MG Ophthalmic Ointment [Polycin-B]"
+    },
+    {
+        "value": "Betaxolol 2.5 MG/ML Ophthalmic Suspension [Betoptic S]",
+        "label": "Betaxolol 2.5 MG/ML Ophthalmic Suspension [Betoptic S]"
+    },
+    {
+        "value": "Dexamethasone 1 MG/ML Ophthalmic Solution",
+        "label": "Dexamethasone 1 MG/ML Ophthalmic Solution"
+    },
+    {
+        "value": "Theophylline 100 MG Extended Release Oral Tablet",
+        "label": "Theophylline 100 MG Extended Release Oral Tablet"
+    },
+    {
+        "value": "Folic Acid 5 MG/ML Injectable Solution",
+        "label": "Folic Acid 5 MG/ML Injectable Solution"
+    },
+    {
+        "value": "168 HR Estradiol 0.00208 MG/HR Transdermal Patch",
+        "label": "168 HR Estradiol 0.00208 MG/HR Transdermal Patch"
+    },
+    {
+        "value": "168 HR Estradiol 0.00417 MG/HR Transdermal Patch",
+        "label": "168 HR Estradiol 0.00417 MG/HR Transdermal Patch"
+    },
+    {
+        "value": "Estrogens, Esterified (USP) 0.625 MG / Methyltestosterone 1.25 MG Oral Tablet",
+        "label": "Estrogens, Esterified (USP) 0.625 MG / Methyltestosterone 1.25 MG Oral Tablet"
+    },
+    {
+        "value": "1 ML Buprenorphine 0.3 MG/ML Injection",
+        "label": "1 ML Buprenorphine 0.3 MG/ML Injection"
+    },
+    {
+        "value": "Aspirin 325 MG / butalbital 50 MG / Caffeine 40 MG Oral Capsule",
+        "label": "Aspirin 325 MG / butalbital 50 MG / Caffeine 40 MG Oral Capsule"
+    },
+    {
+        "value": "mesalamine 66.7 MG/ML Enema",
+        "label": "mesalamine 66.7 MG/ML Enema"
+    },
+    {
+        "value": "Acetaminophen 325 MG / butalbital 50 MG / Caffeine 40 MG Oral Capsule",
+        "label": "Acetaminophen 325 MG / butalbital 50 MG / Caffeine 40 MG Oral Capsule"
+    },
+    {
+        "value": "Acetaminophen 325 MG / butalbital 50 MG / Caffeine 40 MG Oral Tablet",
+        "label": "Acetaminophen 325 MG / butalbital 50 MG / Caffeine 40 MG Oral Tablet"
+    },
+    {
+        "value": "Betamethasone 0.5 MG/ML Topical Cream",
+        "label": "Betamethasone 0.5 MG/ML Topical Cream"
+    },
+    {
+        "value": "Amoxicillin 50 MG/ML Oral Suspension",
+        "label": "Amoxicillin 50 MG/ML Oral Suspension"
+    },
+    {
+        "value": "Griseofulvin 25 MG/ML Oral Suspension",
+        "label": "Griseofulvin 25 MG/ML Oral Suspension"
+    },
+    {
+        "value": "Griseofulvin 250 MG Oral Tablet",
+        "label": "Griseofulvin 250 MG Oral Tablet"
+    },
+    {
+        "value": "Betamethasone 0.5 MG/ML Topical Lotion",
+        "label": "Betamethasone 0.5 MG/ML Topical Lotion"
+    },
+    {
+        "value": "Clarithromycin 25 MG/ML Oral Suspension",
+        "label": "Clarithromycin 25 MG/ML Oral Suspension"
+    },
+    {
+        "value": "168 HR Estradiol 0.00312 MG/HR Transdermal Patch",
+        "label": "168 HR Estradiol 0.00312 MG/HR Transdermal Patch"
+    },
+    {
+        "value": "cyclosporine, modified 100 MG Oral Capsule",
+        "label": "cyclosporine, modified 100 MG Oral Capsule"
+    },
+    {
+        "value": "84 HR Estradiol 0.00156 MG/HR Transdermal Patch",
+        "label": "84 HR Estradiol 0.00156 MG/HR Transdermal Patch"
+    },
+    {
+        "value": "168 HR Estradiol 0.00104 MG/HR Transdermal Patch",
+        "label": "168 HR Estradiol 0.00104 MG/HR Transdermal Patch"
+    },
+    {
+        "value": "montelukast 5 MG Chewable Tablet",
+        "label": "montelukast 5 MG Chewable Tablet"
+    },
+    {
+        "value": "Ofloxacin 3 MG/ML Otic Solution",
+        "label": "Ofloxacin 3 MG/ML Otic Solution"
+    },
+    {
+        "value": "cilostazol 100 MG Oral Tablet",
+        "label": "cilostazol 100 MG Oral Tablet"
+    },
+    {
+        "value": "cilostazol 50 MG Oral Tablet",
+        "label": "cilostazol 50 MG Oral Tablet"
+    },
+    {
+        "value": "abacavir 300 MG Oral Tablet",
+        "label": "abacavir 300 MG Oral Tablet"
+    },
+    {
+        "value": "Metronidazole 7.5 MG/ML Topical Lotion",
+        "label": "Metronidazole 7.5 MG/ML Topical Lotion"
+    },
+    {
+        "value": "Levalbuterol 0.417 MG/ML Inhalant Solution",
+        "label": "Levalbuterol 0.417 MG/ML Inhalant Solution"
+    },
+    {
+        "value": "Griseofulvin 125 MG Oral Tablet",
+        "label": "Griseofulvin 125 MG Oral Tablet"
+    },
+    {
+        "value": "84 HR Estradiol 0.00208 MG/HR Transdermal Patch",
+        "label": "84 HR Estradiol 0.00208 MG/HR Transdermal Patch"
+    },
+    {
+        "value": "84 HR Estradiol 0.00417 MG/HR Transdermal Patch",
+        "label": "84 HR Estradiol 0.00417 MG/HR Transdermal Patch"
+    },
+    {
+        "value": "Benzoyl Peroxide 0.05 MG/MG / Erythromycin 0.03 MG/MG Topical Gel",
+        "label": "Benzoyl Peroxide 0.05 MG/MG / Erythromycin 0.03 MG/MG Topical Gel"
+    },
+    {
+        "value": "Polymyxin B 10000 UNT/ML / Trimethoprim 1 MG/ML Ophthalmic Solution",
+        "label": "Polymyxin B 10000 UNT/ML / Trimethoprim 1 MG/ML Ophthalmic Solution"
+    },
+    {
+        "value": "72 HR Fentanyl 0.025 MG/HR Transdermal Patch",
+        "label": "72 HR Fentanyl 0.025 MG/HR Transdermal Patch"
+    },
+    {
+        "value": "72 HR Fentanyl 0.05 MG/HR Transdermal Patch",
+        "label": "72 HR Fentanyl 0.05 MG/HR Transdermal Patch"
+    },
+    {
+        "value": "72 HR Fentanyl 0.1 MG/HR Transdermal Patch",
+        "label": "72 HR Fentanyl 0.1 MG/HR Transdermal Patch"
+    },
+    {
+        "value": "Albuterol 1 MG/ML Inhalant Solution",
+        "label": "Albuterol 1 MG/ML Inhalant Solution"
+    },
+    {
+        "value": "Cholecalciferol 1000 UNT Oral Capsule",
+        "label": "Cholecalciferol 1000 UNT Oral Capsule"
+    },
+    {
+        "value": "Tretinoin 0.0005 MG/MG Topical Gel",
+        "label": "Tretinoin 0.0005 MG/MG Topical Gel"
+    },
+    {
+        "value": "Ribavirin 200 MG Oral Tablet",
+        "label": "Ribavirin 200 MG Oral Tablet"
+    },
+    {
+        "value": "84 HR Estradiol 0.00104 MG/HR Transdermal Patch",
+        "label": "84 HR Estradiol 0.00104 MG/HR Transdermal Patch"
+    },
+    {
+        "value": "Fluoxetine 20 MG Oral Tablet",
+        "label": "Fluoxetine 20 MG Oral Tablet"
+    },
+    {
+        "value": "prednisolone 5 MG/ML Oral Solution",
+        "label": "prednisolone 5 MG/ML Oral Solution"
+    },
+    {
+        "value": "ciclopirox 10 MG/ML Medicated Shampoo",
+        "label": "ciclopirox 10 MG/ML Medicated Shampoo"
+    },
+    {
+        "value": "Cholecalciferol 400 UNT/ML Oral Solution",
+        "label": "Cholecalciferol 400 UNT/ML Oral Solution"
+    },
+    {
+        "value": "ferrous sulfate 75 MG/ML Oral Solution",
+        "label": "ferrous sulfate 75 MG/ML Oral Solution"
+    },
+    {
+        "value": "Ethosuximide 50 MG/ML Oral Solution",
+        "label": "Ethosuximide 50 MG/ML Oral Solution"
+    },
+    {
+        "value": "pantoprazole 20 MG Delayed Release Oral Tablet",
+        "label": "pantoprazole 20 MG Delayed Release Oral Tablet"
+    },
+    {
+        "value": "lamotrigine 50 MG Disintegrating Oral Tablet",
+        "label": "lamotrigine 50 MG Disintegrating Oral Tablet"
+    },
+    {
+        "value": "lamotrigine 200 MG Disintegrating Oral Tablet",
+        "label": "lamotrigine 200 MG Disintegrating Oral Tablet"
+    },
+    {
+        "value": "Budesonide 0.5 MG/ML Inhalant Solution",
+        "label": "Budesonide 0.5 MG/ML Inhalant Solution"
+    },
+    {
+        "value": "Aspirin 25 MG / Dipyridamole 200 MG Oral Capsule",
+        "label": "Aspirin 25 MG / Dipyridamole 200 MG Oral Capsule"
+    },
+    {
+        "value": "atorvastatin 80 MG Oral Tablet",
+        "label": "atorvastatin 80 MG Oral Tablet"
+    },
+    {
+        "value": "alosetron 1 MG Oral Tablet",
+        "label": "alosetron 1 MG Oral Tablet"
+    },
+    {
+        "value": "Methylprednisolone 4 MG Oral Tablet",
+        "label": "Methylprednisolone 4 MG Oral Tablet"
+    },
+    {
+        "value": "modafinil 100 MG Oral Tablet",
+        "label": "modafinil 100 MG Oral Tablet"
+    },
+    {
+        "value": "Progesterone 100 MG Oral Capsule",
+        "label": "Progesterone 100 MG Oral Capsule"
+    },
+    {
+        "value": "Carbidopa 25 MG Oral Tablet",
+        "label": "Carbidopa 25 MG Oral Tablet"
+    },
+    {
+        "value": "Digoxin 0.125 MG Oral Tablet [Digitek]",
+        "label": "Digoxin 0.125 MG Oral Tablet [Digitek]"
+    },
+    {
+        "value": "Digoxin 0.25 MG Oral Tablet [Digitek]",
+        "label": "Digoxin 0.25 MG Oral Tablet [Digitek]"
+    },
+    {
+        "value": "Terazosin 10 MG Oral Capsule",
+        "label": "Terazosin 10 MG Oral Capsule"
+    },
+    {
+        "value": "rifapentine 150 MG Oral Tablet [Priftin]",
+        "label": "rifapentine 150 MG Oral Tablet [Priftin]"
+    },
+    {
+        "value": "Etanercept 25 MG/ML Injectable Solution [Enbrel]",
+        "label": "Etanercept 25 MG/ML Injectable Solution [Enbrel]"
+    },
+    {
+        "value": "Nystatin 100 UNT/MG Topical Powder [Nystop]",
+        "label": "Nystatin 100 UNT/MG Topical Powder [Nystop]"
+    },
+    {
+        "value": "rosiglitazone 2 MG Oral Tablet [Avandia]",
+        "label": "rosiglitazone 2 MG Oral Tablet [Avandia]"
+    },
+    {
+        "value": "rosiglitazone 4 MG Oral Tablet [Avandia]",
+        "label": "rosiglitazone 4 MG Oral Tablet [Avandia]"
+    },
+    {
+        "value": "Oseltamivir 75 MG Oral Capsule [Tamiflu]",
+        "label": "Oseltamivir 75 MG Oral Capsule [Tamiflu]"
+    },
+    {
+        "value": "bexarotene 75 MG Oral Capsule [Targretin]",
+        "label": "bexarotene 75 MG Oral Capsule [Targretin]"
+    },
+    {
+        "value": "Trimethoprim 10 MG/ML Oral Solution [Primsol]",
+        "label": "Trimethoprim 10 MG/ML Oral Solution [Primsol]"
+    },
+    {
+        "value": "Ramipril 10 MG Oral Capsule",
+        "label": "Ramipril 10 MG Oral Capsule"
+    },
+    {
+        "value": "lamotrigine 25 MG Oral Tablet",
+        "label": "lamotrigine 25 MG Oral Tablet"
+    },
+    {
+        "value": "telmisartan 20 MG Oral Tablet",
+        "label": "telmisartan 20 MG Oral Tablet"
+    },
+    {
+        "value": "prednisolone 3 MG/ML Oral Solution",
+        "label": "prednisolone 3 MG/ML Oral Solution"
+    },
+    {
+        "value": "Hydrochlorothiazide 12.5 MG / telmisartan 40 MG Oral Tablet",
+        "label": "Hydrochlorothiazide 12.5 MG / telmisartan 40 MG Oral Tablet"
+    },
+    {
+        "value": "Hydrochlorothiazide 12.5 MG / telmisartan 80 MG Oral Tablet",
+        "label": "Hydrochlorothiazide 12.5 MG / telmisartan 80 MG Oral Tablet"
+    },
+    {
+        "value": "Mirtazapine 15 MG Disintegrating Oral Tablet",
+        "label": "Mirtazapine 15 MG Disintegrating Oral Tablet"
+    },
+    {
+        "value": "Mirtazapine 30 MG Disintegrating Oral Tablet",
+        "label": "Mirtazapine 30 MG Disintegrating Oral Tablet"
+    },
+    {
+        "value": "benzonatate 200 MG Oral Capsule",
+        "label": "benzonatate 200 MG Oral Capsule"
+    },
+    {
+        "value": "Mirtazapine 45 MG Disintegrating Oral Tablet",
+        "label": "Mirtazapine 45 MG Disintegrating Oral Tablet"
+    },
+    {
+        "value": "gabapentin 50 MG/ML Oral Solution",
+        "label": "gabapentin 50 MG/ML Oral Solution"
+    },
+    {
+        "value": "doxycycline hyclate 20 MG Oral Tablet",
+        "label": "doxycycline hyclate 20 MG Oral Tablet"
+    },
+    {
+        "value": "oxcarbazepine 60 MG/ML Oral Suspension",
+        "label": "oxcarbazepine 60 MG/ML Oral Suspension"
+    },
+    {
+        "value": "olanzapine 20 MG Oral Tablet",
+        "label": "olanzapine 20 MG Oral Tablet"
+    },
+    {
+        "value": "Citalopram 10 MG Oral Tablet",
+        "label": "Citalopram 10 MG Oral Tablet"
+    },
+    {
+        "value": "ropinirole 3 MG Oral Tablet",
+        "label": "ropinirole 3 MG Oral Tablet"
+    },
+    {
+        "value": "travoprost 0.04 MG/ML Ophthalmic Solution",
+        "label": "travoprost 0.04 MG/ML Ophthalmic Solution"
+    },
+    {
+        "value": "Didanosine 125 MG Delayed Release Oral Capsule",
+        "label": "Didanosine 125 MG Delayed Release Oral Capsule"
+    },
+    {
+        "value": "Didanosine 250 MG Delayed Release Oral Capsule",
+        "label": "Didanosine 250 MG Delayed Release Oral Capsule"
+    },
+    {
+        "value": "Didanosine 200 MG Delayed Release Oral Capsule",
+        "label": "Didanosine 200 MG Delayed Release Oral Capsule"
+    },
+    {
+        "value": "Fluorouracil 5 MG/ML Topical Cream",
+        "label": "Fluorouracil 5 MG/ML Topical Cream"
+    },
+    {
+        "value": "zolmitriptan 2.5 MG Disintegrating Oral Tablet",
+        "label": "zolmitriptan 2.5 MG Disintegrating Oral Tablet"
+    },
+    {
+        "value": "almotriptan 6.25 MG Oral Tablet",
+        "label": "almotriptan 6.25 MG Oral Tablet"
+    },
+    {
+        "value": "almotriptan 12.5 MG Oral Tablet",
+        "label": "almotriptan 12.5 MG Oral Tablet"
+    },
+    {
+        "value": "Clindamycin 300 MG Oral Capsule",
+        "label": "Clindamycin 300 MG Oral Capsule"
+    },
+    {
+        "value": "Famotidine 40 MG Oral Tablet",
+        "label": "Famotidine 40 MG Oral Tablet"
+    },
+    {
+        "value": "Prochlorperazine 25 MG Rectal Suppository [Compro]",
+        "label": "Prochlorperazine 25 MG Rectal Suppository [Compro]"
+    },
+    {
+        "value": "dofetilide 0.125 MG Oral Capsule [Tikosyn]",
+        "label": "dofetilide 0.125 MG Oral Capsule [Tikosyn]"
+    },
+    {
+        "value": "dofetilide 0.25 MG Oral Capsule [Tikosyn]",
+        "label": "dofetilide 0.25 MG Oral Capsule [Tikosyn]"
+    },
+    {
+        "value": "tazarotene 0.5 MG/ML Topical Cream [Tazorac]",
+        "label": "tazarotene 0.5 MG/ML Topical Cream [Tazorac]"
+    },
+    {
+        "value": "tazarotene 1 MG/ML Topical Cream [Tazorac]",
+        "label": "tazarotene 1 MG/ML Topical Cream [Tazorac]"
+    },
+    {
+        "value": "Fluorouracil 5 MG/ML Topical Cream [Carac]",
+        "label": "Fluorouracil 5 MG/ML Topical Cream [Carac]"
+    },
+    {
+        "value": "nilutamide 150 MG Oral Tablet [Nilandron]",
+        "label": "nilutamide 150 MG Oral Tablet [Nilandron]"
+    },
+    {
+        "value": "Methotrexate 5 MG Oral Tablet [Trexall]",
+        "label": "Methotrexate 5 MG Oral Tablet [Trexall]"
+    },
+    {
+        "value": "Methotrexate 10 MG Oral Tablet [Trexall]",
+        "label": "Methotrexate 10 MG Oral Tablet [Trexall]"
+    },
+    {
+        "value": "Methotrexate 7.5 MG Oral Tablet [Trexall]",
+        "label": "Methotrexate 7.5 MG Oral Tablet [Trexall]"
+    },
+    {
+        "value": "Methotrexate 15 MG Oral Tablet [Trexall]",
+        "label": "Methotrexate 15 MG Oral Tablet [Trexall]"
+    },
+    {
+        "value": "Didanosine 400 MG Delayed Release Oral Capsule",
+        "label": "Didanosine 400 MG Delayed Release Oral Capsule"
+    },
+    {
+        "value": "dofetilide 0.5 MG Oral Capsule [Tikosyn]",
+        "label": "dofetilide 0.5 MG Oral Capsule [Tikosyn]"
+    },
+    {
+        "value": "Insulin Glargine 100 UNT/ML Injectable Solution [Lantus]",
+        "label": "Insulin Glargine 100 UNT/ML Injectable Solution [Lantus]"
+    },
+    {
+        "value": "travoprost 0.04 MG/ML Ophthalmic Solution [Travatan]",
+        "label": "travoprost 0.04 MG/ML Ophthalmic Solution [Travatan]"
+    },
+    {
+        "value": "abacavir 300 MG / Lamivudine 150 MG / Zidovudine 300 MG Oral Tablet",
+        "label": "abacavir 300 MG / Lamivudine 150 MG / Zidovudine 300 MG Oral Tablet"
+    },
+    {
+        "value": "Acetic Acid 2.5 MG/ML Irrigation Solution",
+        "label": "Acetic Acid 2.5 MG/ML Irrigation Solution"
+    },
+    {
+        "value": "Acetylcysteine 100 MG/ML Inhalant Solution",
+        "label": "Acetylcysteine 100 MG/ML Inhalant Solution"
+    },
+    {
+        "value": "Acetylcysteine 200 MG/ML Inhalant Solution",
+        "label": "Acetylcysteine 200 MG/ML Inhalant Solution"
+    },
+    {
+        "value": "Acyclovir 40 MG/ML Oral Suspension",
+        "label": "Acyclovir 40 MG/ML Oral Suspension"
+    },
+    {
+        "value": "adapalene 0.001 MG/MG Topical Gel",
+        "label": "adapalene 0.001 MG/MG Topical Gel"
+    },
+    {
+        "value": "Alprazolam 0.25 MG Oral Tablet",
+        "label": "Alprazolam 0.25 MG Oral Tablet"
+    },
+    {
+        "value": "Alprazolam 0.5 MG Oral Tablet",
+        "label": "Alprazolam 0.5 MG Oral Tablet"
+    },
+    {
+        "value": "aluminum chloride 200 MG/ML Topical Solution",
+        "label": "aluminum chloride 200 MG/ML Topical Solution"
+    },
+    {
+        "value": "Amlodipine 10 MG Oral Tablet",
+        "label": "Amlodipine 10 MG Oral Tablet"
+    },
+    {
+        "value": "Amlodipine 2.5 MG Oral Tablet",
+        "label": "Amlodipine 2.5 MG Oral Tablet"
+    },
+    {
+        "value": "Amoxicillin 125 MG Chewable Tablet",
+        "label": "Amoxicillin 125 MG Chewable Tablet"
+    },
+    {
+        "value": "Amoxicillin 250 MG Oral Capsule",
+        "label": "Amoxicillin 250 MG Oral Capsule"
+    },
+    {
+        "value": "Amoxicillin 400 MG Chewable Tablet",
+        "label": "Amoxicillin 400 MG Chewable Tablet"
+    },
+    {
+        "value": "Amoxicillin 80 MG/ML Oral Suspension",
+        "label": "Amoxicillin 80 MG/ML Oral Suspension"
+    },
+    {
+        "value": "Amoxicillin 500 MG Oral Capsule",
+        "label": "Amoxicillin 500 MG Oral Capsule"
+    },
+    {
+        "value": "Amoxicillin 500 MG Oral Tablet",
+        "label": "Amoxicillin 500 MG Oral Tablet"
+    },
+    {
+        "value": "Amoxicillin 875 MG Oral Tablet",
+        "label": "Amoxicillin 875 MG Oral Tablet"
+    },
+    {
+        "value": "Ampicillin 50 MG/ML Oral Suspension",
+        "label": "Ampicillin 50 MG/ML Oral Suspension"
+    },
+    {
+        "value": "Ampicillin 500 MG Oral Capsule",
+        "label": "Ampicillin 500 MG Oral Capsule"
+    },
+    {
+        "value": "apraclonidine 5 MG/ML Ophthalmic Solution",
+        "label": "apraclonidine 5 MG/ML Ophthalmic Solution"
+    },
+    {
+        "value": "Aspirin 81 MG Delayed Release Oral Tablet",
+        "label": "Aspirin 81 MG Delayed Release Oral Tablet"
+    },
+    {
+        "value": "Atovaquone 150 MG/ML Oral Suspension",
+        "label": "Atovaquone 150 MG/ML Oral Suspension"
+    },
+    {
+        "value": "Azithromycin 20 MG/ML Oral Suspension",
+        "label": "Azithromycin 20 MG/ML Oral Suspension"
+    },
+    {
+        "value": "Bacitracin 0.4 UNT/MG / Neomycin 0.0035 MG/MG / Polymyxin B 10 UNT/MG Ophthalmic Ointment",
+        "label": "Bacitracin 0.4 UNT/MG / Neomycin 0.0035 MG/MG / Polymyxin B 10 UNT/MG Ophthalmic Ointment"
+    },
+    {
+        "value": "Bacitracin 0.5 UNT/MG Ophthalmic Ointment",
+        "label": "Bacitracin 0.5 UNT/MG Ophthalmic Ointment"
+    },
+    {
+        "value": "Bacitracin 0.5 UNT/MG / Polymyxin B 10 UNT/MG Ophthalmic Ointment",
+        "label": "Bacitracin 0.5 UNT/MG / Polymyxin B 10 UNT/MG Ophthalmic Ointment"
+    },
+    {
+        "value": "Betamethasone 0.5 MG/ML / Clotrimazole 10 MG/ML Topical Cream",
+        "label": "Betamethasone 0.5 MG/ML / Clotrimazole 10 MG/ML Topical Cream"
+    },
+    {
+        "value": "Betamethasone 0.5 MG/ML / Clotrimazole 10 MG/ML Topical Lotion",
+        "label": "Betamethasone 0.5 MG/ML / Clotrimazole 10 MG/ML Topical Lotion"
+    },
+    {
+        "value": "Betaxolol 5 MG/ML Ophthalmic Solution",
+        "label": "Betaxolol 5 MG/ML Ophthalmic Solution"
+    },
+    {
+        "value": "bexarotene 75 MG Oral Capsule",
+        "label": "bexarotene 75 MG Oral Capsule"
+    },
+    {
+        "value": "bimatoprost 0.3 MG/ML Ophthalmic Solution",
+        "label": "bimatoprost 0.3 MG/ML Ophthalmic Solution"
+    },
+    {
+        "value": "calcipotriene 0.05 MG/ML Topical Solution",
+        "label": "calcipotriene 0.05 MG/ML Topical Solution"
+    },
+    {
+        "value": "Calcitriol 0.00025 MG Oral Capsule",
+        "label": "Calcitriol 0.00025 MG Oral Capsule"
+    },
+    {
+        "value": "Calcitriol 0.0005 MG Oral Capsule",
+        "label": "Calcitriol 0.0005 MG Oral Capsule"
+    },
+    {
+        "value": "Captopril 100 MG Oral Tablet",
+        "label": "Captopril 100 MG Oral Tablet"
+    },
+    {
+        "value": "Captopril 12.5 MG Oral Tablet",
+        "label": "Captopril 12.5 MG Oral Tablet"
+    },
+    {
+        "value": "Captopril 50 MG Oral Tablet",
+        "label": "Captopril 50 MG Oral Tablet"
+    },
+    {
+        "value": "Carbamazepine 100 MG Chewable Tablet",
+        "label": "Carbamazepine 100 MG Chewable Tablet"
+    },
+    {
+        "value": "Carbamazepine 20 MG/ML Oral Suspension",
+        "label": "Carbamazepine 20 MG/ML Oral Suspension"
+    },
+    {
+        "value": "Carbamazepine 200 MG Oral Tablet",
+        "label": "Carbamazepine 200 MG Oral Tablet"
+    },
+    {
+        "value": "Carbidopa 25 MG / Levodopa 100 MG Extended Release Oral Tablet",
+        "label": "Carbidopa 25 MG / Levodopa 100 MG Extended Release Oral Tablet"
+    },
+    {
+        "value": "Carbidopa 50 MG / Levodopa 200 MG Extended Release Oral Tablet",
+        "label": "Carbidopa 50 MG / Levodopa 200 MG Extended Release Oral Tablet"
+    },
+    {
+        "value": "Cefaclor 75 MG/ML Oral Suspension",
+        "label": "Cefaclor 75 MG/ML Oral Suspension"
+    },
+    {
+        "value": "12 HR Cefaclor 500 MG Extended Release Oral Tablet",
+        "label": "12 HR Cefaclor 500 MG Extended Release Oral Tablet"
+    },
+    {
+        "value": "Cefaclor 25 MG/ML Oral Suspension",
+        "label": "Cefaclor 25 MG/ML Oral Suspension"
+    },
+    {
+        "value": "Cefaclor 250 MG Oral Capsule",
+        "label": "Cefaclor 250 MG Oral Capsule"
+    },
+    {
+        "value": "Cefadroxil 1000 MG Oral Tablet",
+        "label": "Cefadroxil 1000 MG Oral Tablet"
+    },
+    {
+        "value": "Cefadroxil 50 MG/ML Oral Suspension",
+        "label": "Cefadroxil 50 MG/ML Oral Suspension"
+    },
+    {
+        "value": "Cefadroxil 500 MG Oral Capsule",
+        "label": "Cefadroxil 500 MG Oral Capsule"
+    },
+    {
+        "value": "cefdinir 25 MG/ML Oral Suspension",
+        "label": "cefdinir 25 MG/ML Oral Suspension"
+    },
+    {
+        "value": "Cefixime 20 MG/ML Oral Suspension",
+        "label": "Cefixime 20 MG/ML Oral Suspension"
+    },
+    {
+        "value": "cefpodoxime 100 MG Oral Tablet",
+        "label": "cefpodoxime 100 MG Oral Tablet"
+    },
+    {
+        "value": "cefpodoxime 20 MG/ML Oral Suspension",
+        "label": "cefpodoxime 20 MG/ML Oral Suspension"
+    },
+    {
+        "value": "cefpodoxime 200 MG Oral Tablet",
+        "label": "cefpodoxime 200 MG Oral Tablet"
+    },
+    {
+        "value": "cefpodoxime 10 MG/ML Oral Suspension",
+        "label": "cefpodoxime 10 MG/ML Oral Suspension"
+    },
+    {
+        "value": "cefprozil 25 MG/ML Oral Suspension",
+        "label": "cefprozil 25 MG/ML Oral Suspension"
+    },
+    {
+        "value": "cefprozil 50 MG/ML Oral Suspension",
+        "label": "cefprozil 50 MG/ML Oral Suspension"
+    },
+    {
+        "value": "ceftibuten 36 MG/ML Oral Suspension",
+        "label": "ceftibuten 36 MG/ML Oral Suspension"
+    },
+    {
+        "value": "ceftibuten 400 MG Oral Capsule",
+        "label": "ceftibuten 400 MG Oral Capsule"
+    },
+    {
+        "value": "Cefuroxime 25 MG/ML Oral Suspension",
+        "label": "Cefuroxime 25 MG/ML Oral Suspension"
+    },
+    {
+        "value": "Cefuroxime 250 MG Oral Tablet",
+        "label": "Cefuroxime 250 MG Oral Tablet"
+    },
+    {
+        "value": "Cefuroxime 500 MG Oral Tablet",
+        "label": "Cefuroxime 500 MG Oral Tablet"
+    },
+    {
+        "value": "Cephalexin 25 MG/ML Oral Suspension",
+        "label": "Cephalexin 25 MG/ML Oral Suspension"
+    },
+    {
+        "value": "Cephalexin 250 MG Oral Capsule",
+        "label": "Cephalexin 250 MG Oral Capsule"
+    },
+    {
+        "value": "Cephalexin 50 MG/ML Oral Suspension",
+        "label": "Cephalexin 50 MG/ML Oral Suspension"
+    },
+    {
+        "value": "Cephalexin 500 MG Oral Capsule",
+        "label": "Cephalexin 500 MG Oral Capsule"
+    },
+    {
+        "value": "Cephalexin 250 MG Oral Tablet",
+        "label": "Cephalexin 250 MG Oral Tablet"
+    },
+    {
+        "value": "cevimeline 30 MG Oral Capsule",
+        "label": "cevimeline 30 MG Oral Capsule"
+    },
+    {
+        "value": "Cholecalciferol 400 UNT Oral Tablet",
+        "label": "Cholecalciferol 400 UNT Oral Tablet"
+    },
+    {
+        "value": "choline salicylate 58.6 MG/ML / Magnesium Salicylate 72.4 MG/ML Oral Solution",
+        "label": "choline salicylate 58.6 MG/ML / Magnesium Salicylate 72.4 MG/ML Oral Solution"
+    },
+    {
+        "value": "ciclopirox 7.7 MG/ML Topical Cream",
+        "label": "ciclopirox 7.7 MG/ML Topical Cream"
+    },
+    {
+        "value": "ciclopirox 7.7 MG/ML Topical Lotion",
+        "label": "ciclopirox 7.7 MG/ML Topical Lotion"
+    },
+    {
+        "value": "ciclopirox 80 MG/ML Topical Solution",
+        "label": "ciclopirox 80 MG/ML Topical Solution"
+    },
+    {
+        "value": "Ciprofloxacin 3 MG/ML Ophthalmic Solution",
+        "label": "Ciprofloxacin 3 MG/ML Ophthalmic Solution"
+    },
+    {
+        "value": "Ciprofloxacin 50 MG/ML Oral Suspension",
+        "label": "Ciprofloxacin 50 MG/ML Oral Suspension"
+    },
+    {
+        "value": "Ciprofloxacin 500 MG Oral Tablet",
+        "label": "Ciprofloxacin 500 MG Oral Tablet"
+    },
+    {
+        "value": "Ciprofloxacin 100 MG/ML Oral Suspension",
+        "label": "Ciprofloxacin 100 MG/ML Oral Suspension"
+    },
+    {
+        "value": "Citalopram 2 MG/ML Oral Solution",
+        "label": "Citalopram 2 MG/ML Oral Solution"
+    },
+    {
+        "value": "Citalopram 40 MG Oral Tablet",
+        "label": "Citalopram 40 MG Oral Tablet"
+    },
+    {
+        "value": "Citric Acid 66.8 MG/ML / potassium citrate 110 MG/ML / sodium citrate 100 MG/ML Oral Solution",
+        "label": "Citric Acid 66.8 MG/ML / potassium citrate 110 MG/ML / sodium citrate 100 MG/ML Oral Solution"
+    },
+    {
+        "value": "Citric Acid 66.8 MG/ML / potassium citrate 220 MG/ML Oral Solution",
+        "label": "Citric Acid 66.8 MG/ML / potassium citrate 220 MG/ML Oral Solution"
+    },
+    {
+        "value": "Clarithromycin 50 MG/ML Oral Suspension",
+        "label": "Clarithromycin 50 MG/ML Oral Suspension"
+    },
+    {
+        "value": "Clindamycin 75 MG Oral Capsule",
+        "label": "Clindamycin 75 MG Oral Capsule"
+    },
+    {
+        "value": "Clindamycin 0.01 MG/MG Topical Gel",
+        "label": "Clindamycin 0.01 MG/MG Topical Gel"
+    },
+    {
+        "value": "Clindamycin 10 MG/ML Topical Solution",
+        "label": "Clindamycin 10 MG/ML Topical Solution"
+    },
+    {
+        "value": "Clindamycin 20 MG/ML Vaginal Cream",
+        "label": "Clindamycin 20 MG/ML Vaginal Cream"
+    },
+    {
+        "value": "clopidogrel 75 MG Oral Tablet",
+        "label": "clopidogrel 75 MG Oral Tablet"
+    },
+    {
+        "value": "Clotrimazole 10 MG/ML Topical Cream",
+        "label": "Clotrimazole 10 MG/ML Topical Cream"
+    },
+    {
+        "value": "Clotrimazole 10 MG/ML Topical Solution",
+        "label": "Clotrimazole 10 MG/ML Topical Solution"
+    },
+    {
+        "value": "Clotrimazole 10 MG Oral Lozenge",
+        "label": "Clotrimazole 10 MG Oral Lozenge"
+    },
+    {
+        "value": "Clozapine 200 MG Oral Tablet",
+        "label": "Clozapine 200 MG Oral Tablet"
+    },
+    {
+        "value": "Vitamin B 12 1 MG/ML Injectable Solution",
+        "label": "Vitamin B 12 1 MG/ML Injectable Solution"
+    },
+    {
+        "value": "Dexamethasone 0.001 MG/MG / Neomycin 0.0035 MG/MG / Polymyxin B 10 UNT/MG Ophthalmic Ointment",
+        "label": "Dexamethasone 0.001 MG/MG / Neomycin 0.0035 MG/MG / Polymyxin B 10 UNT/MG Ophthalmic Ointment"
+    },
+    {
+        "value": "Dexamethasone 1 MG/ML / Neomycin 3.5 MG/ML / Polymyxin B 10000 UNT/ML Ophthalmic Suspension",
+        "label": "Dexamethasone 1 MG/ML / Neomycin 3.5 MG/ML / Polymyxin B 10000 UNT/ML Ophthalmic Suspension"
+    },
+    {
+        "value": "Dexamethasone 1 MG/ML / Tobramycin 3 MG/ML Ophthalmic Suspension",
+        "label": "Dexamethasone 1 MG/ML / Tobramycin 3 MG/ML Ophthalmic Suspension"
+    },
+    {
+        "value": "Dexamethasone 0.1 MG/ML Oral Solution",
+        "label": "Dexamethasone 0.1 MG/ML Oral Solution"
+    },
+    {
+        "value": "Dexamethasone 10 MG/ML Injectable Solution",
+        "label": "Dexamethasone 10 MG/ML Injectable Solution"
+    },
+    {
+        "value": "Diazepam 1 MG/ML Oral Solution",
+        "label": "Diazepam 1 MG/ML Oral Solution"
+    },
+    {
+        "value": "Diazepam 5 MG/ML Oral Solution",
+        "label": "Diazepam 5 MG/ML Oral Solution"
+    },
+    {
+        "value": "Diazepam 5 MG/ML Injectable Solution",
+        "label": "Diazepam 5 MG/ML Injectable Solution"
+    },
+    {
+        "value": "Dipyridamole 25 MG Oral Tablet",
+        "label": "Dipyridamole 25 MG Oral Tablet"
+    },
+    {
+        "value": "Dipyridamole 75 MG Oral Tablet",
+        "label": "Dipyridamole 75 MG Oral Tablet"
+    },
+    {
+        "value": "Disopyramide 100 MG Oral Capsule",
+        "label": "Disopyramide 100 MG Oral Capsule"
+    },
+    {
+        "value": "Disopyramide 150 MG Oral Capsule",
+        "label": "Disopyramide 150 MG Oral Capsule"
+    },
+    {
+        "value": "dorzolamide 20 MG/ML Ophthalmic Solution",
+        "label": "dorzolamide 20 MG/ML Ophthalmic Solution"
+    },
+    {
+        "value": "Doxercalciferol 0.0025 MG Oral Capsule",
+        "label": "Doxercalciferol 0.0025 MG Oral Capsule"
+    },
+    {
+        "value": "Epinephrine 1 MG/ML Injectable Solution",
+        "label": "Epinephrine 1 MG/ML Injectable Solution"
+    },
+    {
+        "value": "eprosartan 600 MG Oral Tablet",
+        "label": "eprosartan 600 MG Oral Tablet"
+    },
+    {
+        "value": "Erythromycin 0.005 MG/MG Ophthalmic Ointment",
+        "label": "Erythromycin 0.005 MG/MG Ophthalmic Ointment"
+    },
+    {
+        "value": "Erythromycin 0.02 MG/MG Topical Gel",
+        "label": "Erythromycin 0.02 MG/MG Topical Gel"
+    },
+    {
+        "value": "Erythromycin 250 MG Delayed Release Oral Capsule",
+        "label": "Erythromycin 250 MG Delayed Release Oral Capsule"
+    },
+    {
+        "value": "estropipate 0.75 MG Oral Tablet",
+        "label": "estropipate 0.75 MG Oral Tablet"
+    },
+    {
+        "value": "estropipate 1.5 MG Oral Tablet",
+        "label": "estropipate 1.5 MG Oral Tablet"
+    },
+    {
+        "value": "estropipate 3 MG Oral Tablet",
+        "label": "estropipate 3 MG Oral Tablet"
+    },
+    {
+        "value": "24 HR Etodolac 400 MG Extended Release Oral Tablet",
+        "label": "24 HR Etodolac 400 MG Extended Release Oral Tablet"
+    },
+    {
+        "value": "24 HR Etodolac 600 MG Extended Release Oral Tablet",
+        "label": "24 HR Etodolac 600 MG Extended Release Oral Tablet"
+    },
+    {
+        "value": "exemestane 25 MG Oral Tablet",
+        "label": "exemestane 25 MG Oral Tablet"
+    },
+    {
+        "value": "Famotidine 20 MG Oral Tablet",
+        "label": "Famotidine 20 MG Oral Tablet"
+    },
+    {
+        "value": "Famotidine 8 MG/ML Oral Suspension",
+        "label": "Famotidine 8 MG/ML Oral Suspension"
+    },
+    {
+        "value": "felbamate 120 MG/ML Oral Suspension",
+        "label": "felbamate 120 MG/ML Oral Suspension"
+    },
+    {
+        "value": "Fenofibrate 134 MG Oral Capsule",
+        "label": "Fenofibrate 134 MG Oral Capsule"
+    },
+    {
+        "value": "Fenofibrate 200 MG Oral Capsule",
+        "label": "Fenofibrate 200 MG Oral Capsule"
+    },
+    {
+        "value": "Fenoprofen 600 MG Oral Tablet",
+        "label": "Fenoprofen 600 MG Oral Tablet"
+    },
+    {
+        "value": "Fentanyl 1.2 MG Oral Lozenge",
+        "label": "Fentanyl 1.2 MG Oral Lozenge"
+    },
+    {
+        "value": "Fentanyl 1.6 MG Oral Lozenge",
+        "label": "Fentanyl 1.6 MG Oral Lozenge"
+    },
+    {
+        "value": "Fentanyl 0.2 MG Oral Lozenge",
+        "label": "Fentanyl 0.2 MG Oral Lozenge"
+    },
+    {
+        "value": "Fentanyl 0.4 MG Oral Lozenge",
+        "label": "Fentanyl 0.4 MG Oral Lozenge"
+    },
+    {
+        "value": "Finasteride 5 MG Oral Tablet",
+        "label": "Finasteride 5 MG Oral Tablet"
+    },
+    {
+        "value": "Fluconazole 10 MG/ML Oral Suspension",
+        "label": "Fluconazole 10 MG/ML Oral Suspension"
+    },
+    {
+        "value": "Fluconazole 40 MG/ML Oral Suspension",
+        "label": "Fluconazole 40 MG/ML Oral Suspension"
+    },
+    {
+        "value": "Fluocinonide 0.0005 MG/MG Topical Gel",
+        "label": "Fluocinonide 0.0005 MG/MG Topical Gel"
+    },
+    {
+        "value": "Fluocinonide 0.5 MG/ML Topical Solution",
+        "label": "Fluocinonide 0.5 MG/ML Topical Solution"
+    },
+    {
+        "value": "Fluorometholone 1 MG/ML Ophthalmic Suspension",
+        "label": "Fluorometholone 1 MG/ML Ophthalmic Suspension"
+    },
+    {
+        "value": "Fluorouracil 20 MG/ML Topical Solution",
+        "label": "Fluorouracil 20 MG/ML Topical Solution"
+    },
+    {
+        "value": "Fluorouracil 50 MG/ML Topical Solution",
+        "label": "Fluorouracil 50 MG/ML Topical Solution"
+    },
+    {
+        "value": "Fluoxetine 10 MG Oral Capsule",
+        "label": "Fluoxetine 10 MG Oral Capsule"
+    },
+    {
+        "value": "Fluoxetine 20 MG Oral Capsule",
+        "label": "Fluoxetine 20 MG Oral Capsule"
+    },
+    {
+        "value": "Fluoxetine 4 MG/ML Oral Solution",
+        "label": "Fluoxetine 4 MG/ML Oral Solution"
+    },
+    {
+        "value": "fluvastatin 20 MG Oral Capsule",
+        "label": "fluvastatin 20 MG Oral Capsule"
+    },
+    {
+        "value": "fluvastatin 40 MG Oral Capsule",
+        "label": "fluvastatin 40 MG Oral Capsule"
+    },
+    {
+        "value": "Folic Acid 1 MG Oral Tablet",
+        "label": "Folic Acid 1 MG Oral Tablet"
+    },
+    {
+        "value": "Furosemide 20 MG Oral Tablet",
+        "label": "Furosemide 20 MG Oral Tablet"
+    },
+    {
+        "value": "gabapentin 100 MG Oral Capsule",
+        "label": "gabapentin 100 MG Oral Capsule"
+    },
+    {
+        "value": "gabapentin 300 MG Oral Capsule",
+        "label": "gabapentin 300 MG Oral Capsule"
+    },
+    {
+        "value": "gabapentin 400 MG Oral Capsule",
+        "label": "gabapentin 400 MG Oral Capsule"
+    },
+    {
+        "value": "gabapentin 600 MG Oral Tablet",
+        "label": "gabapentin 600 MG Oral Tablet"
+    },
+    {
+        "value": "gabapentin 800 MG Oral Tablet",
+        "label": "gabapentin 800 MG Oral Tablet"
+    },
+    {
+        "value": "Galantamine 4 MG Oral Tablet",
+        "label": "Galantamine 4 MG Oral Tablet"
+    },
+    {
+        "value": "Galantamine 8 MG Oral Tablet",
+        "label": "Galantamine 8 MG Oral Tablet"
+    },
+    {
+        "value": "Gemfibrozil 600 MG Oral Tablet",
+        "label": "Gemfibrozil 600 MG Oral Tablet"
+    },
+    {
+        "value": "Gentamicin Sulfate (USP) 0.001 MG/MG Topical Ointment",
+        "label": "Gentamicin Sulfate (USP) 0.001 MG/MG Topical Ointment"
+    },
+    {
+        "value": "Gentamicin Sulfate (USP) 0.003 MG/MG Ophthalmic Ointment",
+        "label": "Gentamicin Sulfate (USP) 0.003 MG/MG Ophthalmic Ointment"
+    },
+    {
+        "value": "Gentamicin Sulfate (USP) 3 MG/ML Ophthalmic Solution",
+        "label": "Gentamicin Sulfate (USP) 3 MG/ML Ophthalmic Solution"
+    },
+    {
+        "value": "Glipizide 10 MG Oral Tablet",
+        "label": "Glipizide 10 MG Oral Tablet"
+    },
+    {
+        "value": "24 HR Glipizide 2.5 MG Extended Release Oral Tablet",
+        "label": "24 HR Glipizide 2.5 MG Extended Release Oral Tablet"
+    },
+    {
+        "value": "Glipizide 5 MG Oral Tablet",
+        "label": "Glipizide 5 MG Oral Tablet"
+    },
+    {
+        "value": "Glyburide 2.5 MG Oral Tablet",
+        "label": "Glyburide 2.5 MG Oral Tablet"
+    },
+    {
+        "value": "Glyburide 3 MG Oral Tablet",
+        "label": "Glyburide 3 MG Oral Tablet"
+    },
+    {
+        "value": "Glyburide 5 MG Oral Tablet",
+        "label": "Glyburide 5 MG Oral Tablet"
+    },
+    {
+        "value": "Glyburide 6 MG Oral Tablet",
+        "label": "Glyburide 6 MG Oral Tablet"
+    },
+    {
+        "value": "Glycine 15 MG/ML Irrigation Solution",
+        "label": "Glycine 15 MG/ML Irrigation Solution"
+    },
+    {
+        "value": "Gramicidin 0.025 MG/ML / Neomycin 1.75 MG/ML / Polymyxin B 10000 UNT/ML Ophthalmic Solution",
+        "label": "Gramicidin 0.025 MG/ML / Neomycin 1.75 MG/ML / Polymyxin B 10000 UNT/ML Ophthalmic Solution"
+    },
+    {
+        "value": "Granisetron 1 MG Oral Tablet",
+        "label": "Granisetron 1 MG Oral Tablet"
+    },
+    {
+        "value": "Griseofulvin 500 MG Oral Tablet",
+        "label": "Griseofulvin 500 MG Oral Tablet"
+    },
+    {
+        "value": "Haloperidol 0.5 MG Oral Tablet",
+        "label": "Haloperidol 0.5 MG Oral Tablet"
+    },
+    {
+        "value": "Haloperidol 1 MG Oral Tablet",
+        "label": "Haloperidol 1 MG Oral Tablet"
+    },
+    {
+        "value": "Haloperidol 5 MG Oral Tablet",
+        "label": "Haloperidol 5 MG Oral Tablet"
+    },
+    {
+        "value": "Hydrocortisone 10 MG/ML / Neomycin 3.5 MG/ML / Polymyxin B 10000 UNT/ML Otic Suspension",
+        "label": "Hydrocortisone 10 MG/ML / Neomycin 3.5 MG/ML / Polymyxin B 10000 UNT/ML Otic Suspension"
+    },
+    {
+        "value": "Hydrochlorothiazide 12.5 MG / irbesartan 150 MG Oral Tablet",
+        "label": "Hydrochlorothiazide 12.5 MG / irbesartan 150 MG Oral Tablet"
+    },
+    {
+        "value": "Hydrochlorothiazide 12.5 MG / irbesartan 300 MG Oral Tablet",
+        "label": "Hydrochlorothiazide 12.5 MG / irbesartan 300 MG Oral Tablet"
+    },
+    {
+        "value": "Hydrochlorothiazide 12.5 MG / quinapril 10 MG Oral Tablet",
+        "label": "Hydrochlorothiazide 12.5 MG / quinapril 10 MG Oral Tablet"
+    },
+    {
+        "value": "Hydrochlorothiazide 12.5 MG / quinapril 20 MG Oral Tablet",
+        "label": "Hydrochlorothiazide 12.5 MG / quinapril 20 MG Oral Tablet"
+    },
+    {
+        "value": "Hydrochlorothiazide 25 MG Oral Tablet",
+        "label": "Hydrochlorothiazide 25 MG Oral Tablet"
+    },
+    {
+        "value": "Hydrochlorothiazide 25 MG / quinapril 20 MG Oral Tablet",
+        "label": "Hydrochlorothiazide 25 MG / quinapril 20 MG Oral Tablet"
+    },
+    {
+        "value": "Hydrochlorothiazide 25 MG / Triamterene 37.5 MG Oral Tablet",
+        "label": "Hydrochlorothiazide 25 MG / Triamterene 37.5 MG Oral Tablet"
+    },
+    {
+        "value": "Hydrochlorothiazide 50 MG / Triamterene 75 MG Oral Tablet",
+        "label": "Hydrochlorothiazide 50 MG / Triamterene 75 MG Oral Tablet"
+    },
+    {
+        "value": "Hydrocortisone 1.67 MG/ML Enema",
+        "label": "Hydrocortisone 1.67 MG/ML Enema"
+    },
+    {
+        "value": "Hydrocortisone 25 MG/ML Topical Cream",
+        "label": "Hydrocortisone 25 MG/ML Topical Cream"
+    },
+    {
+        "value": "imiquimod 50 MG/ML Topical Cream",
+        "label": "imiquimod 50 MG/ML Topical Cream"
+    },
+    {
+        "value": "Indomethacin 75 MG Extended Release Oral Capsule",
+        "label": "Indomethacin 75 MG Extended Release Oral Capsule"
+    },
+    {
+        "value": "insulin human, isophane 100 UNT/ML Injectable Suspension [Humulin N]",
+        "label": "insulin human, isophane 100 UNT/ML Injectable Suspension [Humulin N]"
+    },
+    {
+        "value": "insulin human, isophane 100 UNT/ML Injectable Suspension [Novolin N]",
+        "label": "insulin human, isophane 100 UNT/ML Injectable Suspension [Novolin N]"
+    },
+    {
+        "value": "Regular Insulin, Human 100 UNT/ML Injectable Solution [Novolin R]",
+        "label": "Regular Insulin, Human 100 UNT/ML Injectable Solution [Novolin R]"
+    },
+    {
+        "value": "Regular Insulin, Human 100 UNT/ML Injectable Solution [Humulin R]",
+        "label": "Regular Insulin, Human 100 UNT/ML Injectable Solution [Humulin R]"
+    },
+    {
+        "value": "isoniazid 100 MG Oral Tablet",
+        "label": "isoniazid 100 MG Oral Tablet"
+    },
+    {
+        "value": "Isosorbide Mononitrate 10 MG Oral Tablet",
+        "label": "Isosorbide Mononitrate 10 MG Oral Tablet"
+    },
+    {
+        "value": "Isosorbide Dinitrate 40 MG Extended Release Oral Tablet",
+        "label": "Isosorbide Dinitrate 40 MG Extended Release Oral Tablet"
+    },
+    {
+        "value": "24 HR Isosorbide Mononitrate 120 MG Extended Release Oral Tablet",
+        "label": "24 HR Isosorbide Mononitrate 120 MG Extended Release Oral Tablet"
+    },
+    {
+        "value": "Isosorbide Mononitrate 20 MG Oral Tablet",
+        "label": "Isosorbide Mononitrate 20 MG Oral Tablet"
+    },
+    {
+        "value": "Itraconazole 100 MG Oral Capsule",
+        "label": "Itraconazole 100 MG Oral Capsule"
+    },
+    {
+        "value": "Ivermectin 3 MG Oral Tablet",
+        "label": "Ivermectin 3 MG Oral Tablet"
+    },
+    {
+        "value": "Lactic acid 100 MG/ML Topical Lotion",
+        "label": "Lactic acid 100 MG/ML Topical Lotion"
+    },
+    {
+        "value": "lamotrigine 25 MG Chewable Tablet",
+        "label": "lamotrigine 25 MG Chewable Tablet"
+    },
+    {
+        "value": "lamotrigine 5 MG Chewable Tablet",
+        "label": "lamotrigine 5 MG Chewable Tablet"
+    },
+    {
+        "value": "lansoprazole 30 MG Delayed Release Oral Capsule",
+        "label": "lansoprazole 30 MG Delayed Release Oral Capsule"
+    },
+    {
+        "value": "Leucovorin 10 MG/ML Injectable Solution",
+        "label": "Leucovorin 10 MG/ML Injectable Solution"
+    },
+    {
+        "value": "Levalbuterol 0.21 MG/ML Inhalant Solution",
+        "label": "Levalbuterol 0.21 MG/ML Inhalant Solution"
+    },
+    {
+        "value": "Levetiracetam 250 MG Oral Tablet",
+        "label": "Levetiracetam 250 MG Oral Tablet"
+    },
+    {
+        "value": "Levetiracetam 500 MG Oral Tablet",
+        "label": "Levetiracetam 500 MG Oral Tablet"
+    },
+    {
+        "value": "Levetiracetam 750 MG Oral Tablet",
+        "label": "Levetiracetam 750 MG Oral Tablet"
+    },
+    {
+        "value": "Levofloxacin 750 MG Oral Tablet",
+        "label": "Levofloxacin 750 MG Oral Tablet"
+    },
+    {
+        "value": "linezolid 20 MG/ML Oral Suspension",
+        "label": "linezolid 20 MG/ML Oral Suspension"
+    },
+    {
+        "value": "linezolid 600 MG Oral Tablet",
+        "label": "linezolid 600 MG Oral Tablet"
+    },
+    {
+        "value": "Lisinopril 2.5 MG Oral Tablet",
+        "label": "Lisinopril 2.5 MG Oral Tablet"
+    },
+    {
+        "value": "Lisinopril 5 MG Oral Tablet",
+        "label": "Lisinopril 5 MG Oral Tablet"
+    },
+    {
+        "value": "Lithium Carbonate 150 MG Oral Capsule",
+        "label": "Lithium Carbonate 150 MG Oral Capsule"
+    },
+    {
+        "value": "Lorazepam 2 MG/ML Oral Solution",
+        "label": "Lorazepam 2 MG/ML Oral Solution"
+    },
+    {
+        "value": "Loxapine 25 MG Oral Capsule",
+        "label": "Loxapine 25 MG Oral Capsule"
+    },
+    {
+        "value": "Loxapine 5 MG Oral Capsule",
+        "label": "Loxapine 5 MG Oral Capsule"
+    },
+    {
+        "value": "meloxicam 7.5 MG Oral Tablet",
+        "label": "meloxicam 7.5 MG Oral Tablet"
+    },
+    {
+        "value": "Methotrexate 1000 MG Injection",
+        "label": "Methotrexate 1000 MG Injection"
+    },
+    {
+        "value": "Metipranolol 3 MG/ML Ophthalmic Solution",
+        "label": "Metipranolol 3 MG/ML Ophthalmic Solution"
+    },
+    {
+        "value": "Metoclopramide 10 MG Oral Tablet",
+        "label": "Metoclopramide 10 MG Oral Tablet"
+    },
+    {
+        "value": "Metoclopramide 5 MG Oral Tablet",
+        "label": "Metoclopramide 5 MG Oral Tablet"
+    },
+    {
+        "value": "Metolazone 5 MG Oral Tablet",
+        "label": "Metolazone 5 MG Oral Tablet"
+    },
+    {
+        "value": "Metronidazole 7.5 MG/ML Topical Cream",
+        "label": "Metronidazole 7.5 MG/ML Topical Cream"
+    },
+    {
+        "value": "Metronidazole 500 MG Oral Tablet",
+        "label": "Metronidazole 500 MG Oral Tablet"
+    },
+    {
+        "value": "Mirtazapine 15 MG Oral Tablet",
+        "label": "Mirtazapine 15 MG Oral Tablet"
+    },
+    {
+        "value": "Mirtazapine 45 MG Oral Tablet",
+        "label": "Mirtazapine 45 MG Oral Tablet"
+    },
+    {
+        "value": "Misoprostol 0.1 MG Oral Tablet",
+        "label": "Misoprostol 0.1 MG Oral Tablet"
+    },
+    {
+        "value": "mometasone furoate 1 MG/ML Topical Cream",
+        "label": "mometasone furoate 1 MG/ML Topical Cream"
+    },
+    {
+        "value": "montelukast 4 MG Chewable Tablet",
+        "label": "montelukast 4 MG Chewable Tablet"
+    },
+    {
+        "value": "Mupirocin 20 MG/ML Topical Cream",
+        "label": "Mupirocin 20 MG/ML Topical Cream"
+    },
+    {
+        "value": "mycophenolate mofetil 200 MG/ML Oral Suspension",
+        "label": "mycophenolate mofetil 200 MG/ML Oral Suspension"
+    },
+    {
+        "value": "nabumetone 500 MG Oral Tablet",
+        "label": "nabumetone 500 MG Oral Tablet"
+    },
+    {
+        "value": "nabumetone 750 MG Oral Tablet",
+        "label": "nabumetone 750 MG Oral Tablet"
+    },
+    {
+        "value": "Naproxen 25 MG/ML Oral Suspension",
+        "label": "Naproxen 25 MG/ML Oral Suspension"
+    },
+    {
+        "value": "Naproxen 500 MG Delayed Release Oral Tablet",
+        "label": "Naproxen 500 MG Delayed Release Oral Tablet"
+    },
+    {
+        "value": "naratriptan 1 MG Oral Tablet",
+        "label": "naratriptan 1 MG Oral Tablet"
+    },
+    {
+        "value": "nateglinide 120 MG Oral Tablet",
+        "label": "nateglinide 120 MG Oral Tablet"
+    },
+    {
+        "value": "Nevirapine 10 MG/ML Oral Suspension",
+        "label": "Nevirapine 10 MG/ML Oral Suspension"
+    },
+    {
+        "value": "Niacin 500 MG Oral Tablet [Niacor]",
+        "label": "Niacin 500 MG Oral Tablet [Niacor]"
+    },
+    {
+        "value": "Nicotine 4 MG Chewing Gum",
+        "label": "Nicotine 4 MG Chewing Gum"
+    },
+    {
+        "value": "24 HR Nisoldipine 20 MG Extended Release Oral Tablet",
+        "label": "24 HR Nisoldipine 20 MG Extended Release Oral Tablet"
+    },
+    {
+        "value": "24 HR Nisoldipine 30 MG Extended Release Oral Tablet",
+        "label": "24 HR Nisoldipine 30 MG Extended Release Oral Tablet"
+    },
+    {
+        "value": "Nitrofurantoin 5 MG/ML Oral Suspension",
+        "label": "Nitrofurantoin 5 MG/ML Oral Suspension"
+    },
+    {
+        "value": "NITROFURANTOIN, MACROCRYSTALS 50 MG Oral Capsule",
+        "label": "NITROFURANTOIN, MACROCRYSTALS 50 MG Oral Capsule"
+    },
+    {
+        "value": "Nitroglycerin 2.5 MG Extended Release Oral Capsule",
+        "label": "Nitroglycerin 2.5 MG Extended Release Oral Capsule"
+    },
+    {
+        "value": "Nitroglycerin 6.5 MG Extended Release Oral Capsule",
+        "label": "Nitroglycerin 6.5 MG Extended Release Oral Capsule"
+    },
+    {
+        "value": "Nitroglycerin 9 MG Extended Release Oral Capsule",
+        "label": "Nitroglycerin 9 MG Extended Release Oral Capsule"
+    },
+    {
+        "value": "Nizatidine 150 MG Oral Capsule",
+        "label": "Nizatidine 150 MG Oral Capsule"
+    },
+    {
+        "value": "Nortriptyline 2 MG/ML Oral Solution",
+        "label": "Nortriptyline 2 MG/ML Oral Solution"
+    },
+    {
+        "value": "Nystatin 100000 UNT/ML Oral Suspension",
+        "label": "Nystatin 100000 UNT/ML Oral Suspension"
+    },
+    {
+        "value": "Nystatin 500000 UNT Oral Tablet",
+        "label": "Nystatin 500000 UNT Oral Tablet"
+    },
+    {
+        "value": "1 ML Octreotide 0.05 MG/ML Injection",
+        "label": "1 ML Octreotide 0.05 MG/ML Injection"
+    },
+    {
+        "value": "1 ML Octreotide 0.1 MG/ML Injection",
+        "label": "1 ML Octreotide 0.1 MG/ML Injection"
+    },
+    {
+        "value": "1 ML Octreotide 0.5 MG/ML Injection",
+        "label": "1 ML Octreotide 0.5 MG/ML Injection"
+    },
+    {
+        "value": "Octreotide 1 MG/ML Injectable Solution",
+        "label": "Octreotide 1 MG/ML Injectable Solution"
+    },
+    {
+        "value": "Ofloxacin 3 MG/ML Ophthalmic Solution",
+        "label": "Ofloxacin 3 MG/ML Ophthalmic Solution"
+    },
+    {
+        "value": "olanzapine 10 MG Disintegrating Oral Tablet",
+        "label": "olanzapine 10 MG Disintegrating Oral Tablet"
+    },
+    {
+        "value": "olanzapine 15 MG Oral Tablet",
+        "label": "olanzapine 15 MG Oral Tablet"
+    },
+    {
+        "value": "olanzapine 5 MG Oral Tablet",
+        "label": "olanzapine 5 MG Oral Tablet"
+    }
+]
