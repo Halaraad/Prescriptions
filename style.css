@@ -127,6 +127,20 @@ ol li {
   height: 170px;
 }
 
+.add {
+  float: right;
+  margin: -35px -35px 0 0;
+  width: 200px;
+  background: transparent;
+  border: none;
+  letter-spacing: 2px;
+  font-size: 14px;
+  color: #2286c3;
+  font-weight: 600;
+  cursor: pointer;
+  outline: none;
+}
+
 #logo {
   width: 860px;
   position: relative;

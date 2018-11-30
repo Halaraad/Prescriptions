@@ -1,10 +1,11 @@
 import React from "react";
 import ReactDOM from "react-dom";
 import firebase from "firebase";
-import jsPDF from "jspdf";
+import jsPDF from "jspdf"; //used to generate PDFs
 import Context from "./context";
 import Selectt from "./select.js";
 
+//initialize firebase
 var config = {
   apiKey: "AIzaSyBVk2_g_-HSQ7qU2_9mziSTXO2D-6BZ-zQ",
   authDomain: "prescriptions-de3dc.firebaseapp.com",
@@ -19,9 +20,9 @@ class Header extends React.Component {
   constructor() {
     super();
     this.state = {};
-    var doc = new jsPDF();
   }
 
+  //renders the header component including logo and header links
   render() {
     return (
       <Context.Consumer>
@@ -37,6 +38,14 @@ class Header extends React.Component {
                 <h2>
                   Hey Dr. Add Your Prescriptions Online and All In One Place.
                 </h2>
+                <button
+                  className="add"
+                  onClick={() => {
+                    ctx.actions.toggle();
+                  }}
+                >
+                  + Add Prescription
+                </button>
               </div>
               <div id="menubar">
                 <ul id="menu">
@@ -47,16 +56,6 @@ class Header extends React.Component {
                       }}
                     >
                       All Prescriptions
-                    </a>
-                  </li>
-                  <li>
-                    <a
-                      className="cursor"
-                      onClick={() => {
-                        ctx.actions.toggle();
-                      }}
-                    >
-                      Add Prescription
                     </a>
                   </li>
                   <li>
@@ -78,6 +77,7 @@ class PreList extends React.Component {
     this.state = {};
   }
 
+  //selectedOptionObject() recives array of objects 'drugs', then returns an array to be rendered in UI
   selectedOptionObject(obj) {
     if (obj == null) {
       return null;
@@ -86,38 +86,38 @@ class PreList extends React.Component {
       for (let i = 0; i < obj.length; i++) {
         result.push(obj[i].value);
       }
-      return result      
+      return result;
     }
   }
 
+  //print() receives selected item from user the generates a pdf in new tab
   print(itm) {
     var doc = new jsPDF();
-    doc.setFontSize(13)
+    doc.setFontSize(13);
     doc.text(85, 20, "JOHN SMITH, M.D.");
     doc.text(85, 25, "E. 14th Street");
     doc.text(85, 30, "HOMETOWN, USA 00 000");
     doc.text(85, 35, "(0 00) 123-4567");
-    doc.line(20, 40, 190, 40)
-    doc.text(10, 65, 'NAME');
+    doc.line(20, 40, 190, 40);
+    doc.text(10, 65, "NAME");
     doc.text(60, 65, itm.name);
-    doc.line(60, 68, 120, 68)
-    doc.text(10, 75, 'AGE');
+    doc.line(60, 68, 120, 68);
+    doc.text(10, 75, "AGE");
     doc.text(60, 75, itm.age);
-    doc.line(60, 78, 120, 78)
-    doc.text(10, 85, 'DRUGS :');
-    doc.setFontSize(12)
+    doc.line(60, 78, 120, 78);
+    doc.text(10, 85, "DRUGS :");
+    doc.setFontSize(12);
 
-    let oneDrug = this.selectedOptionObject(itm.selectedOption)
-    for(let i=0, y=95; (i < oneDrug.length); i++, y=y+10)
-    {
-          doc.text(20, y, oneDrug[i]);
+    let oneDrug = this.selectedOptionObject(itm.selectedOption);
+    for (let i = 0, y = 95; i < oneDrug.length; i++, y = y + 10) {
+      doc.text(20, y, oneDrug[i]);
     }
 
-    doc.line(20, 250, 190, 250)
+    doc.line(20, 250, 190, 250);
     doc.text(95, 260, "(Signature)");
 
-    window.open(doc.output('bloburl'), '_blank');
-    }
+    window.open(doc.output("bloburl"), "_blank");
+  }
 
   render() {
     const { selectedOption } = this.state;
@@ -162,15 +162,16 @@ class PreList extends React.Component {
                 ctx.state.pres.map((item, i) => {
                   return (
                     <div id="content">
-                    <img
-                    src={require("./images/pdf.png")}
-                    onClick={() => {
+                      <img
+                        src={require("./images/pdf.png")}
+                        onClick={() => {
                           this.print(item);
                         }}
-                    className="print"
-                    alt="pdf pre." />
+                        className="print"
+                        alt="pdf pre."
+                      />
                       <h1 className="PreHeading">Pre. {i}</h1>
-                     
+
                       <div key={i} id={i} id="main">
                         <img src={require("./images/drug.png")} />
                         <p className="age">
