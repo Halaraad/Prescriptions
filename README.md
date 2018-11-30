@@ -1,2 +1,2 @@
 # Prescriptions
-Live Demo : [dead-cable.surge.sh](https://www.google.com)
+Live Demo : [dead-cable.surge.sh](dead-cable.surge.sh)
