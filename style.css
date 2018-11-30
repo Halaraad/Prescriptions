@@ -235,8 +235,7 @@ ul#menu li a:hover {
 
 #content {
   text-align: left;
-  padding: 10px;
-  padding-bottom: 0;
+  padding: 0;
   width: 70%;
   padding-left: 20px;
   margin-bottom: 10px;
@@ -277,6 +276,16 @@ ul#menu li a:hover {
 .PreHeading, .drugs {
   background: #f5f5f5;
   height: 10px;
+  width: 60px;
+  margin-top: -50px;
+}
+
+.print {
+  width: 30px;
+  height: 30px;
+  align-self: flex-end;
+  margin: 10px 10px 0 0;
+  cursor: pointer;
 }
 
 .PreHeading {
@@ -288,6 +297,11 @@ img,
 .age,
 .name {
   padding: 1em;
+}
+
+.drugs {
+  margin-top: 0px;
+  width: 570px
 }
 
 #footer {
